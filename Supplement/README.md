@@ -9,3 +9,7 @@ It provides the following key components:
 
 This supplementary document helps define the mathematical framework for studying tumor-immune interactions, serving as a reference for adjusting the model according to real-world data.
 
+
+## preliminary.figures.pdf
+This document presents figures generated within a MATLAB environment, showcasing visualizations based on the proposed oncological model of the project.
+
