@@ -1,7 +1,7 @@
 ## Supplement
 
 ## ODE.parameters.md
-This file outlines the parameters, initial conditions, and constants used in the system of ordinary differential equations (ODEs) for modeling the dynamics between tumor cells (T), CTL cells (L), and natural killer cells (N). 
+This file outlines the parameters, initial conditions, and constants used in the system of ordinary differential equations for modeling the dynamics between tumor cells (T), CTL cells (L), and natural killer cells (N). 
 
 It provides the following key components:
 - *Initial conditions* for the populations of tumor cells, CTL cells, and NK cells
