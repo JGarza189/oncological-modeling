@@ -6,6 +6,6 @@ These scripts implement a mathematical model for tumor-immune dynamics, focusing
 
 **Note:** MATLAB code is not rendered in GitHub and is not easily visualized. For quick reference, you can either open the `oncology_model.txt` file directly in GitHub or view it in your preferred text or source code editor for better readability. Otherwise, open `oncology_model.m` or `oncology_model.mlx` directly inside of MATLAB.
 
-### sample_script.m
+### sample_script.m | sample_script.txt
 
-This script is the provided code from Dr. Rao.
+These scripts were provided by Dr. Rao to solve ODE.
