@@ -10,7 +10,6 @@ Initial condition for the populations at time $t = 0$.
 - **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
 
 ## Parameters
-Constants define the rates and interactions within the system.
 
 - **$a_1$ (Growth rate of $N$)**: Coefficient governing the growth rate of $N$.
 - **$b$ (regulation for $N$)**: Density-dependent regulation for $N$ (logistic growth).
