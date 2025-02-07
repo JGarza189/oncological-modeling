@@ -3,14 +3,14 @@
 This section outlines the constants, initial conditions, and parameters used in the system of ordinary differential equations (ODEs) for modeling the interaction between populations $N$, $L$, and $T$.
 
 ## Initial Conditions
-These are the initial condition for the populations at time $t = 0$.
+Initial condition for the populations at time $t = 0$.
 
 - **$N_0$ (Initial population of $N$)**: Initial population of natural killer cells $N$.
 - **$L_0$ (Initial population of $L$)**: Initial population of CTL cells $L$.
 - **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
 
 ## Parameters
-These constants define the rates and interactions within the system.
+Constants define the rates and interactions within the system.
 
 - **$a_1$ (Growth rate of $N$)**: Coefficient governing the growth rate of $N$.
 - **$b$ (regulation for $N$)**: Density-dependent regulation for $N$ (logistic growth).
