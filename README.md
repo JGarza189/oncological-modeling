@@ -11,7 +11,7 @@
 
 ## Overview:
 
-This repository contains scripts, data, and supplementary material associated with an applied modeling project  at Texas A&M University - Corpus Christi. The project aims to develop mathematical models to investigate the impact of immunotherapy on tumor growth, using a system of ordinary differential equations (ODEs) to model interactions between tumor cells, natural killer cells, CTL cells, and therapeutic agents.
+This repository contains scripts, data, and supplementary material associated with an applied modeling project  at Texas A&M University - Corpus Christi. The project aims to develop mathematical models to investigate the impact of immunotherapy on tumor growth, using a system of ordinary differential equations to model interactions between tumor cells, natural killer cells, CTL cells, and therapeutic agents.
 
 ### Objectives:
 
