@@ -13,12 +13,26 @@
 
 This repository contains scripts, data, and supplementary material associated with a applied modeling project  at Texas A&M University - Corpus Christi. The project aims to develop mathematical models to investigate the impact of immunotherapy on tumor growth, using a system of ordinary differential equations (ODEs) to model interactions between tumor cells, NK cells, CTLs, and therapeutic agents.
 
-### Goals:
+### Objectives:
 
-This study investigates the role of immunotherapy in tumor suppression, focusing on how immune responses and therapeutic strategies can influence tumor dynamics. The following objectives guide the research:
+This study investigates the role of immunotherapy in tumor suppression, focusing on how immune responses and therapeutic strategies can influence tumor dynamics. The following goals guide the research:
 
-**Objective 1**: Develop a system of ODEs to represent tumor-immune interactions, including tumor growth rates, immune responses, and the effects of immunotherapy agents.
+**Objective 1**: Develop a system of ordinary differential equations (ODEs) to model the interactions between tumor cells (N), immune cells (L), and therapeutic agents (T). The system will incorporate tumor growth rates, immune response dynamics, and the impact of immunotherapy on these processes.
 
-**Objective 2**: Incorporate delays in immune cell activation to provide a more realistic representation of immune-tumor dynamics.
+**Objective 2**: Integrate delays into immune cell activation within the ODEs to provide a more accurate representation of immune-tumor dynamics. This approach considers the time it takes for immune responses to fully activate and engage with tumor cells.
 
-**Objective 3**: Explore how immunotherapy can improve tumor suppression and optimize immune system activation, offering insights for future therapeutic strategies and cancer treatment improvements.
+**Objective 3**: Investigate the effect of immunotherapy on tumor suppression by modeling how therapeutic agents (T) influence tumor growth and immune cell activation. The goal is to identify how immunotherapy can optimize immune system responses to enhance tumor suppression.
+
+The updated system of ODEs representing the tumor-immune interaction is:
+
+\[
+\left\{
+\begin{aligned}
+N'(t) &= a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t) \\
+L'(t) &= r_1 N(t) T(t) + r_2 I_0 2^{-\frac{t}{h}} - \mu L(t) - \beta_1 L(t) T(t) \\
+T'(t) &= c T(t) (1 - d T(t)) - \alpha_2 N(t) T(t) - \beta_2 L(t) T(t) \\
+\end{aligned}
+\right.
+\]
+
+This model aims to simulate the dynamics of tumor growth, immune cell interactions, and the impact of immunotherapy, with the goal of optimizing therapeutic strategies.
