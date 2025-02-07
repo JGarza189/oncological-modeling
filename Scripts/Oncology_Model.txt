@@ -5,6 +5,7 @@ clc; clear; close all;
 %Solve the system and visualize the system of ODEs %
 
 % Define parameter values %
+% These values are arbitrary and are only for quasi-modeling for preliminary research 
 a1 = 0.5;  
 b = 0.02;  
 a2 = 0.1;  
