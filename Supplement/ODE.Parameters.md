@@ -5,9 +5,9 @@ This section outlines the constants, initial conditions, and parameters used in 
 ## Initial Conditions
 These are the starting values for the populations at time \( t = 0 \).
 
-- **\( N_0 \) (Initial population of N)**: Initial population of species \( N \) (or main population).
-- **\( L_0 \) (Initial population of L)**: Initial population of species \( L \).
-- **\( T_0 \) (Initial population of T)**: Initial population of species \( T \).
+- **\( N_0 \) (Initial population of \( N \))**: Initial population of species \( N \) (or main population).
+- **\( L_0 \) (Initial population of \( L \))**: Initial population of species \( L \).
+- **\( T_0 \) (Initial population of \( T \))**: Initial population of species \( T \).
 
 ## Parameters
 These constants define the rates and interactions within the system. You may need to adjust these based on literature or experimental data.
@@ -29,11 +29,10 @@ These constants define the rates and interactions within the system. You may nee
 
 ## What to Look For in the Literature
 To tailor the constants and initial conditions to a real-world system, consult the following types of studies:
-- **Species-specific growth rates**: Studies that report the intrinsic growth rates of the species involved in your system (\( N \), \( L \), and \( T \)).
+- **Species-specific growth rates**: Studies that report the intrinsic growth rates of the species involved in your system \( N \), \( L \), and \( T \).
 - **Carrying capacities and density dependence**: Research on population density effects and how populations are limited by available resources.
 - **Interaction coefficients**: Literature on ecological interactions such as predation, competition, and mutualism, particularly how species affect each other.
 - **Environmental factors**: Studies on how external resources (nutrients, light, etc.) influence species growth.
 - **Mortality rates**: Studies providing mortality rates of the species involved under various environmental conditions.
 
 By gathering this information, you will be able to fine-tune the model's parameters to reflect a real-world system or experimental setup.
-
