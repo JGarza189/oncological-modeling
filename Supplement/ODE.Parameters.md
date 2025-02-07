@@ -1,6 +1,6 @@
 ## (WORK IN PROGRESS) System of ODEs: Parameters and Initial Conditions
 
-This section outlines the constants, initial conditions, and parameters used in the system of ordinary differential equations (ODEs) for modeling the interaction between populations $N$, $L$, and $T$.
+This section outlines the constants, initial conditions, and parameters used in the system of ordinary differential equations for modeling the interaction between populations $N$, $L$, and $T$.
 
 ## Initial Conditions
 Initial condition for the populations at time $t = 0$.
