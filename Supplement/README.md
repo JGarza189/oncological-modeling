@@ -1,6 +1,6 @@
 ## Supplement
 
-## system-ode.parameters.md
+## ODE.parameters.md
 This file outlines the parameters, initial conditions, and constants used in the system of ordinary differential equations (ODEs) for modeling the dynamics between tumor cells (T), immune cells (L), and external inputs (N). 
 
 It provides the following key components:
