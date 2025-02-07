@@ -1,14 +1,14 @@
 # Mathematical Modeling of Tumor-Immune Dynamics: A Novel Case Study on Immunotherapy and Tumor Suppression
 
-##### Project Contributors: Joseph Garza, [Other Contributors]
+##### Project Contributors: BV Shankara Narayana Rao, Joseph Garza, Kate Brockman, Tony Liao, Brian Colburn
+
 ##### Department of Life Sciences, Texas A&M University - Corpus Christi
 
-#### Keywords:
-Mathematical Modeling; Tumor-Immune Dynamics; Immunotherapy; Ordinary Differential Equations; Cancer Treatment Optimization
+#### Keywords: Mathematical Modeling; Tumor-Immune Dynamics; Immunotherapy; Ordinary Differential Equations; Cancer Treatment Optimization
 
 ## Overview:
 
-This repository contains scripts, data, and resources associated with Joseph Garza's research project for the **Applied Modeling** class at Texas A&M University - Corpus Christi in Spring 2025. The project aims to develop mathematical models to investigate the impact of immunotherapy on tumor growth, using a system of ordinary differential equations (ODEs) to model interactions between tumor cells, NK cells, CTLs, and therapeutic agents.
+This repository contains scripts, data, and supplementary material associated with a applied modeling project  at Texas A&M University - Corpus Christi. The project aims to develop mathematical models to investigate the impact of immunotherapy on tumor growth, using a system of ordinary differential equations (ODEs) to model interactions between tumor cells, NK cells, CTLs, and therapeutic agents.
 
 ### Goals:
 
