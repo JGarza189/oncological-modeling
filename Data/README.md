@@ -1,2 +1,3 @@
-# oncological-modeling
-This repository models tumor growth under immunotherapy using ordinary differential equations (ODEs). It simulates interactions between tumor cells, NK cells, and CTLs, factoring in immune responses and therapeutic agents, with delays for immune activation, to optimize immunotherapy strategies for cancer treatment.
+# Data
+
+This section will contain datasets used for modeling tumor-immune dynamics and evaluating the impact of immunotherapy. Currently, there is no data available, but this folder will be updated with experimental or simulated data once available. It will include data related to tumor growth, immune response, and the effects of therapeutic interventions.
