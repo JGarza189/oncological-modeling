@@ -1,4 +1,4 @@
-# Mathematical Modeling of Tumor-Immune Dynamics: A Novel Case Study on Immunotherapy and Tumor Suppression
+## Mathematical Modeling of Tumor-Immune Dynamics: A Novel Case Study on Immunotherapy and Tumor Suppression
 
 ##### Project Contributors: BV Shankara Narayana Rao¹, Joseph Garza², Kate Brockman¹, Tony Liao¹, Brian Colburn¹
 
