@@ -17,7 +17,7 @@ This repository contains scripts, data, and supplementary material associated wi
 
 This study investigates the role of immunotherapy in tumor suppression, focusing on how immune responses and therapeutic strategies can influence tumor dynamics. The following goals guide the research:
 
-**Objective 1**: Develop a system of ordinary differential equations (ODEs) to model the interactions between natural killer cells (N), CTL cells (L), and tumor cells (T). The system incorporates tumor growth rates, immune response dynamics, and the impact of immunotherapy on these processes.
+**Objective 1**: Develop a system of ordinary differential equations to model the interactions between natural killer cells (N), CTL cells (L), and tumor cells (T). The system incorporates tumor growth rates, immune response dynamics, and the impact of immunotherapy on these processes.
 
 **Objective 2**: Investigate the effect of immunotherapy on tumor suppression by modeling how therapeutic agents influence tumor growth and immune cell activation. The goal is to identify how immunotherapy can optimize immune system responses to enhance tumor suppression.
 
