@@ -1,8 +1,10 @@
 # Mathematical Modeling of Tumor-Immune Dynamics: A Novel Case Study on Immunotherapy and Tumor Suppression
 
-##### Project Contributors: BV Shankara Narayana Rao, Joseph Garza, Kate Brockman, Tony Liao, Brian Colburn
+##### Project Contributors: BV Shankara Narayana Rao¹, Joseph Garza², Kate Brockman¹, Tony Liao¹, Brian Colburn¹
 
-##### Department of Life Sciences, Texas A&M University - Corpus Christi
+##### Affiliations:
+1. Department of Mathematics and Statistics, Texas A&M University - Corpus Christi  
+2. Department of Life Sciences, Texas A&M University - Corpus Christi
 
 #### Keywords: Mathematical Modeling; Tumor-Immune Dynamics; Immunotherapy; Ordinary Differential Equations; Cancer Treatment Optimization
 
