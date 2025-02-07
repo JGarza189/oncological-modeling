@@ -6,7 +6,7 @@
 1. Department of Mathematics and Statistics, Texas A&M University - Corpus Christi  
 2. Department of Life Sciences, Texas A&M University - Corpus Christi
 
-#### Keywords: Mathematical Modeling; Tumor-Immune Dynamics; Immunotherapy; Ordinary Differential Equations; Cancer Treatment Optimization
+#### **Keywords**: Mathematical Modeling; Tumor-Immune Dynamics; Immunotherapy; Ordinary Differential Equations; Cancer Treatment Optimization
 
 ## Overview:
 
