@@ -13,17 +13,17 @@ These are the initial condition for the populations at time $t = 0$.
 These constants define the rates and interactions within the system.
 
 - **$a_1$ (Growth rate of $N$)**: Coefficient governing the growth rate of $N$.
-- **$b$ (Density-dependent regulation for $N$)**: Density-dependent regulation for $N$ (logistic growth).
+- **$b$ (regulation for $N$)**: Density-dependent regulation for $N$ (logistic growth).
 - **$a_2$ (Mortality rate of $N$)**: Mortality rate of $N$.
 - **$\alpha_1$ (Predation or interaction rate between $N$ and $T$)**: Rate at which $N$ affects $T$ 
 - **$r_1$ (Growth rate of $L$ due to $N$ and $T$ interaction)**: Rate at which $L$ grows due to interaction with $N$ and $T$.
-- **$r_2$ (Growth rate of $L$ from environmental input)**: Growth rate of $L$ ..
-- **$I_0$ (Initial environmental input)**: Initial level ..
-- **$h$ (Decay rate for external input)**: Time scale for decay ...
+- **$r_2$ (Growth rate of $L$ from  input)**: Growth rate of $L$ ..
+- **$I_0$ (..)**: Initial level ..
+- **$h$ (Decay rate ..)**: Time scale  ...
 - **$\mu$ (Decay rate of $L$)**: Mortality rate of $L$.
 - **$\beta_1$ (Effect of $T$ on $L$'s growth)**: Impact of $T$ on the growth of $L$.
-- **$c$ (Intrinsic growth rate of $T$)**: Intrinsic growth rate of $T$.
-- **$d$ (Density-dependent regulation for $T$)**: Density-dependent regulation $T$.
+- **$c$ (Intrinsic growth  of $T$)**: Intrinsic growth rate of $T$.
+- **$d$ (Density for $T$)**: Density-dependent regulation $T$.
 - **$\alpha_2$ (Predation or interaction rate between $N$ and $T$)**: Rate at which $N$ affects $T$ ..
 - **$\beta_2$ (Effect of $L$ on $T$'s growth)**: Effect of $L$ on $T$'s growth.
 
