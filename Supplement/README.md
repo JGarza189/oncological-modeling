@@ -13,4 +13,4 @@ This supplementary document helps define the mathematical framework for studying
 This file outlines and explains the `Oncology_Model.mlx script in detail. 
 
 ## preliminary.figures.pdf
-This file contains preliminary figures used in our analysis
+This file contains preliminary figures used in our analysis.
