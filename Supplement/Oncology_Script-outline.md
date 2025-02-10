@@ -33,6 +33,8 @@ beta2 = 0.02;
 
 These parameters are constants used to model the dynamics of the system of equations. They were derived from the literature to accurately represent a preliminary system.
 
+LIST CITATIONS HERE
+
 ## Initial Conditions 
 
 ```matlab
@@ -89,7 +91,7 @@ Each vector (`N`, `L`, and `T`) represents the time evolution of a specific vari
 
 A figure is created to display the system of equations using LaTeX formatting. The axis is turned off because the purpose is to display text rather than plot data. The equations are defined as LaTeX strings and rendered on the figure with the `text` function.
 
-#### Example script snippet for displaying one of the equations:
+#### Script snippet for displaying one of the equations:
 
 ```matlab
 eq1 = '$\frac{dN(t)}{dt} = a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t)$';
@@ -101,8 +103,6 @@ text(0.1, 0.8, eq1, 'Interpreter', 'latex', 'FontSize', 14);
 The script creates several subplots to visualize the evolution of each variable over time:
 
 - **Subplots**: Three subplots are used, one for each variable (`N`, `L`, `T`).  
-- **Labels and Titles**: Each plot includes x and y labels, a title, and grid lines for clarity.  
-- **Overall Title**: An overall title is added to the figure using `sgtitle`.
 
 ```matlab
 subplot(3,1,1);
@@ -114,16 +114,14 @@ grid on;
 
 ## Customization Using Various Parameters
 
-The script also demonstrates how to re-run the model with a new set of parameters and initial conditions:
+This script can also be re-ran  with a new set of parameters and initial conditions:
 
-- Parameters and initial conditions are redefined.  
+- Parameters and initial conditions can be redefined based either on data taken from the literature or our own experimental data.   
 - The system is solved again with `ode45`.  
 - A combined plot is created (using `hold on`) to display all three variables on the same axes, along with a legend.  
 - An annotation box shows the system of equations.  
 
-This part of the script illustrates the model’s sensitivity to parameter changes.
-
-## ODE Functions Defined 
+## ODE Functions 
 
 At the end of the script, the function `systemODEs` is defined to compute the derivatives:
 
@@ -148,10 +146,9 @@ end
   - `dTdt` models the dynamics of `T` with logistic behavior and interactions.  
 - **Output**: The derivatives are returned as a column vector `dydt` for use by `ode45`.
 
-## Overview
+## Overview (NEEDS MORE DETAIL)
 
-- **Initialization**: Clears the workspace and figures.  
-- **Parameter & Initial Condition Setup**: Defines constants and starting values.  
-- **ODE Solver**: Uses `ode45` to solve the system of ODEs.  
+- **Initialization**: Clears the workspace.  
+- **Define Parameters**: Defines constants and starting values.  
+- **ODE Solution Extraction**: Uses `ode45` to solve the system of ODEs.  
 - **Visualization**: Displays both the mathematical equations (using LaTeX) and the dynamic behavior of the system through plots.  
-- **Modularity**: Separates the ODE function (`systemODEs`) from the main script for clarity and reuse.
