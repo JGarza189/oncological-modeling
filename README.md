@@ -23,14 +23,6 @@ This study investigates the role of immunotherapy in tumor suppression, focusing
 
 $$
 \begin{aligned}
-N'(t) &= a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t) \\
-L'(t) &= r_1 N(t) T(t) + r_2 I_0 2^{-\frac{t}{h}} - \mu L(t) - \beta_1 L(t) T(t) \\
-T'(t) &= c T(t) (1 - d T(t)) - \alpha_2 N(t) T(t) - \beta_2 L(t) T(t)
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
 \begin{cases}
 N'(t) = a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t), \\
 L'(t) = r_1 N(t) T(t) + r_2 I_0 2^{-\frac{t}{h}} - \mu L(t) - \beta_1 L(t) T(t), \\
