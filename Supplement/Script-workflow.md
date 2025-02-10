@@ -31,7 +31,7 @@ alpha2 = 0.04;
 beta2 = 0.02;
 ```
 
-These parameters represent constants that are used to model the dynamics of the system of equations.
+These parameters are constants used to model the dynamics of the system of equations. They were derived from the literature to accurately represent a preliminary system.
 
 ## Initial Conditions 
 
