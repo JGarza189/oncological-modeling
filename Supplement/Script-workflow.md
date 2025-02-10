@@ -8,6 +8,7 @@ At the start of the script, the following commands are used:
 
 ```matlab
 clc; clear; close all;
+```matlab
 
 These commands ensure the script run in a clean enviorement without interference from previous sesssions.
 
