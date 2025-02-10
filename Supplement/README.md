@@ -10,7 +10,7 @@ It provides the following key components:
 This supplementary document helps define the mathematical framework for studying tumor-immune interactions, serving as a reference for adjusting the model according to real-world data.
 
 ## oncology_script-outline.md
-This file outlines and explains the `Oncology_Model.mlx script in detail. 
+This file provides a detailed breakdown of the Oncology_Model.mlx script, explaining its structure, key components, and mathematical framework. It serves as a reference for understanding, modifying, and applying the model to tumor-immune interactions.
 
 ## preliminary.figures.pdf
-This file contains preliminary figures used in our analysis.
+The preliminary.figures.pdf file contains initial model-generated figures that visualize tumor and immune cell dynamics. These figures highlight key trends, aiding in model refinement and validation using data and constants taken from the literature. 
