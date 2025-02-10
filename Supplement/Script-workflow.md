@@ -29,6 +29,7 @@ c = 0.6;
 d = 0.02;  
 alpha2 = 0.04; 
 beta2 = 0.02;
+```
 
 These parameters represent constants that are used to model the dynamics of the system of equations.
 
@@ -39,6 +40,7 @@ N0 = 10;
 L0 = 5;
 T0 = 2;
 y0 = [N0; L0; T0];
+```
 
 N₀, L₀, and T₀ are the starting values for the three variables in the system.  
 y₀ is the vector that combines these values.  
