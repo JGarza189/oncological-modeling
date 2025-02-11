@@ -112,3 +112,67 @@ de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J
 
 ### beta 2 (Rate of CTLs induced tumor death)
 - **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+### Parameters
+| **Parameter** | **Units**          | **Description**                                                   | **Estimated Value (units)** | **Source**                                                                 |
+|---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
+| a1            | day^-1             | Growth rate of NK cells                                           | todo                        | Zhang et al., 2007                                                         |
+| a2            | day^-1             | Natural death rate of NK cells                                     | todo                        | Zhang et al., 2007                                                         |
+| b             | cell^-1            | Inverse of NK cells carrying capacity                              | todo                        | Zhang et al., 2007                                                         |
+| c             | cell^-1 day^-1     | Growth rate of tumor                                              | todo                        | Buceta & Galeano, 2005                                                     |
+| d             | cell^-1 day^-1     | Inverse of tumor carrying capacity                                 | todo                        | Gerlee & Anderson, 2015                                                   |
+| r1            | cell^-1 day^-1     | Rate of NK-lysed tumor cell debris activation of CTLs             | todo                        | de Pillis et al., 2008                                                     |
+| r2            | cell^-1 day^-1     | Rate of drug-activated CTL cells                                   | todo                        | de Pillis et al., 2008                                                     |
+| Io            | dose               | Initial drug dose                                                  | todo                        | de Pillis et al., 2008                                                     |
+| h             | day^-1             | Drug half-life                                                     | todo                        | de Pillis et al., 2008                                                     |
+| mu            | cell^-1 day^-1     | Death rate of CTLs                                                 | todo                        | de Pillis et al., 2008                                                     |
+| alpha 1       | cell^-1 day^-1     | Rate of NK cell death due to tumor interaction                     | todo                        | de Pillis et al., 2008                                                     |
+| alpha 2       | cell^-1 day^-1     | Rate of NK-induced tumor death                                     | todo                        | de Pillis et al., 2008                                                     |
+| beta 1        | cell^-1 day^-1     | Rate of CTLs death due to tumor interaction                        | todo                        | de Pillis et al., 2008                                                     |
+| beta 2        | cell^-1 day^-1     | Rate of CTLs-induced tumor deaths                                  | todo                        | de Pillis et al., 2008                                                     |
+
+
+### Parameters
+
+#### a1 (Growth rate of NK cells / day)
+- **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. (Zhang et al., 2007)
+
+#### a2 (Natural death rate of NK Cells / day)
+- **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. (Zhang et al., 2007)
+
+#### b (Inverse of NK cells carrying capacity)
+- **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. (Zhang et al., 2007)
+
+#### c (Tumor growth rate / day)
+- **Source**: Buceta, J., & Galeano, J. (2005). *Comments on the article “The universal dynamics of tumor growth” by A. Brú et al.* Biophysical Journal, 88(5), 3734–3736. (Buceta & Galeano, 2005)
+
+#### d (Inverse of tumor carrying capacity)
+- **Source**: Gerlee, P., & Anderson, A. R. (2015). *The evolution of carrying capacity in constrained and expanding tumour cell populations*. Physical Biology, 12(5), 056001. (Gerlee & Anderson, 2015)
+
+#### r1 (Rate of NK-lysed tumor cell debris activation of CTLs)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### r2 (Rate of drug-activated CTL cells)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### Io (Initial drug dose)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### h (Drug half-life)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### mu (Death rate of CTLs)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### alpha 1 (Rate of NK cell death due to tumor interaction)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### alpha 2 (Rate of NK-induced tumor death)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### beta 1 (Rate of CTLs death due to tumor interaction)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
+#### beta 2 (Rate of CTLs-induced tumor death)
+- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184. (de Pillis et al., 2008)
+
