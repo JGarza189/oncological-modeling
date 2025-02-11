@@ -133,6 +133,25 @@ de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J
 
 
 ### Parameters
+| **Parameter** | **Units**          | **Description**                                                   | **Estimated Value (units)** | **Source**                                                                 |
+|---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
+| a1            | day^-1             | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
+| a2            | day^-1             | Natural death rate of NK cells                                     | 0.069                       | Zhang et al., 2007                                                         |
+| b             | cell^-1            | Inverse of NK cells carrying capacity                              | 8e-10                       | Zhang et al., 2007                                                         |
+| c             | cell^-1 day^-1     | Growth rate of tumor                                              | 0.36                        | Buceta & Galeano, 2005                                                     |
+| d             | cell^-1 day^-1     | Inverse of tumor carrying capacity                                 | 1                           | Gerlee & Anderson, 2015                                                   |
+| r1            | cell^-1 day^-1     | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e-11                  | de Pillis et al., 2008                                                     |
+| r2            | cell^-1 day^-1     | Rate of drug-activated CTL cells                                   | 5.8467e-13                  | de Pillis et al., 2008                                                     |
+| Io            | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
+| h             | day^-1             | Drug half-life                                                     | 1.3332                      | de Pillis et al., 2008                                                     |
+| mu            | cell^-1 day^-1     | Death rate of CTLs                                                 | 9e-3                        | de Pillis et al., 2008                                                     |
+| alpha 1       | cell^-1 day^-1     | Rate of NK cell death due to tumor interaction                     | 2.794e-13                   | de Pillis et al., 2008                                                     |
+| alpha 2       | cell^-1 day^-1     | Rate of NK-induced tumor death                                     | 2.9077e-13                  | de Pillis et al., 2008                                                     |
+| beta 1        | cell^-1 day^-1     | Rate of CTLs death due to tumor interaction                        | 3.422e-10                   | de Pillis et al., 2008                                                     |
+| beta 2        | cell^-1 day^-1     | Rate of CTLs-induced tumor deaths                                  | 2.9077e-11                  | de Pillis et al., 2008                                                     |
+
+
+### Parameters
 
 #### a1 (Growth rate of NK cells / day)
 - **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. (Zhang et al., 2007)
