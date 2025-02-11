@@ -71,6 +71,11 @@ The ODE system is solved using MATLAB's `ode45` function:
 
 `ode45` is a variable-step Runge-Kutta solver embedded in MATLAB. The anonymous function `@(t, y) systemODEs(...)` calls an external function `systemODEs` with the current time, state, and model parameters.
 
+When manually selecting a solver, `ode45` is often the best first choice for most systems.  
+The `ode45` solver uses an explicit **Runge-Kutta (4,5) formula**, also known as the **Dormand-Prince pair**, for numerical integration.
+
+Refer to the [MATLAB documentation](https://www.mathworks.com/help/simulink/gui/solver.html).
+
 - `[t, y]`:  
   - `t` is a vector of time points where the solution was evaluated.  
   - `y` is a matrix where each row corresponds to a time point, and each column corresponds to one of the variables.
