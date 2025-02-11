@@ -89,9 +89,6 @@ title('Dynamics of N(t), L(t), and T(t) Over Time', 'FontWeight', 'normal');
 legend('N(t)', 'L(t)', 'T(t)', 'Location', 'Best');
 grid on;
 
-
-
-
 function dydt = systemODEs(t, y, a1, b, a2, alpha1, r1, r2, I0, h, mu, beta1, c, d, alpha2, beta2)
     N = y(1);
     L = y(2);
