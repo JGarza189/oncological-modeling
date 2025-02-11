@@ -74,7 +74,9 @@ The ODE system is solved using MATLAB's `ode45` function:
 When manually selecting a solver, `ode45` is often the best first choice for most systems.  
 The `ode45` solver uses an explicit **Runge-Kutta (4,5) formula**, also known as the **Dormand-Prince pair**, for numerical integration.
 
-Refer to the [MATLAB documentation](https://www.mathworks.com/help/simulink/gui/solver.html).
+Reference to the official MATLAB documentation:  
+- [Simulink Solver Settings](https://www.mathworks.com/help/simulink/gui/solver.html)  
+- [MATLAB `ode45` Function](https://www.mathworks.com/help/matlab/ref/ode45.html?searchHighlight=ode45&s_tid=srchtitle_support_results_1_ode45)  
 
 - `[t, y]`:  
   - `t` is a vector of time points where the solution was evaluated.  
