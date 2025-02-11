@@ -9,3 +9,6 @@ These scripts implement a mathematical model for tumor-immune dynamics, focusing
 ### sample_script.m | sample_script.txt
 
 These scripts were provided by Dr. Rao to solve ODE.
+
+## oncology_script-outline.md
+This file provides a detailed breakdown of the Oncology_Model.mlx script, explaining its structure, key components, and mathematical framework. It serves as a reference for understanding, modifying, and applying the model to tumor-immune interactions.

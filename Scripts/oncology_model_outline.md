@@ -113,18 +113,7 @@ title('Dynamics of N(t)');
 grid on;
 ```
 
-## Customization Using Various Parameters
-
-This script can also be re-ran  with a new set of parameters and initial conditions:
-
-- Parameters and initial conditions can be redefined based either on data taken from the literature or our own experimental data.   
-- The system is solved again with `ode45`.  
-- A combined plot is created (using `hold on`) to display all three variables on the same axes, along with a legend.  
-- An annotation box shows the system of equations.  
-
 ## ODE Functions 
-
-At the end of the script, the function `systemODEs` is defined to compute the derivatives:
 
 ```matlab
 function dydt = systemODEs(t, y, a1, b, a2, alpha1, r1, r2, I0, h, mu, beta1, c, d, alpha2, beta2)
