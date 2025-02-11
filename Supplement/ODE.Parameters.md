@@ -29,7 +29,7 @@ Initial condition for the populations at time $t = 0$.
 
 
 
-### Parameters
+### Literature Cited
 
 #### $a_1$ (Growth rate of NK cells / day)
 - **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. (Zhang et al., 2007)
