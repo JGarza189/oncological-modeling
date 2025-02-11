@@ -76,11 +76,6 @@ References to official MATLAB documentation:
   - `t` is a vector of time points where the solution was evaluated.  
   - `y` is a matrix where each row corresponds to a time point, and each column corresponds to one of the variables.
 
-In the model:  
-- `y(1)` corresponds to **N**,  
-- `y(2)` corresponds to **L**,  
-- `y(3)` corresponds to **T**.  
-
 ## Extracting Solutions from `ode45`
 
 After solving, the solution matrix `y` is split into individual vectors for each variable:
