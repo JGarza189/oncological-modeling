@@ -11,3 +11,6 @@ This supplementary document helps define the mathematical framework for studying
 
 ## preliminary.figures.pdf
 The preliminary.figures.pdf file contains initial model-generated figures that visualize tumor and immune cell dynamics. These figures highlight key trends, aiding in model refinement and validation using data and constants taken from the literature. 
+
+## manuscript-results.docx
+This Word document presents a overview of the preliminary modeling results.
