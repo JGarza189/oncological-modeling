@@ -33,8 +33,6 @@ beta2 = 2.9077e-11;
 
 These parameters are constants used to model the dynamics of the system of equations. They were derived from the literature to accurately represent a preliminary system.
 
-LIST CITATIONS HERE
-
 ## Initial Conditions 
 
 ```matlab
@@ -135,10 +133,3 @@ end
   - `dLdt` includes interaction between `N` and `T`, a time-dependent decay term, and loss terms.  
   - `dTdt` models the dynamics of `T` with logistic behavior and interactions.  
 - **Output**: The derivatives are returned as a column vector `dydt` for use by `ode45`.
-
-## Overview (NEEDS MORE DETAIL)
-
-- **Initialization**: Clears the workspace.  
-- **Define Parameters**: Defines constants and starting values.  
-- **ODE Solution Extraction**: Uses `ode45` to solve the system of ODEs.  
-- **Visualization**: Displays both the mathematical equations (using LaTeX) and the dynamic behavior of the system through plots.  
