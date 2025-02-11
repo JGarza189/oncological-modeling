@@ -15,20 +15,20 @@ These commands ensure the script runs in a clean environment without interferenc
 ## Define Parameters
 
 ```matlab
-a1 = 0.5;  
-b = 0.02;  
-a2 = 0.1;  
-alpha1 = 0.05; 
-r1 = 0.02; 
-r2 = 0.1;  
+a1 = 0.043;  
+b = 8e-10;  
+a2 = 0.069;  
+alpha1 = 2.794e-13; 
+r1 = 2.9077e-11; 
+r2 = 5.8467e-13;  
 I0 = 1.0;  
-h = 10;    
-mu = 0.1;  
-beta1 = 0.03; 
-c = 0.6;   
-d = 0.02;  
-alpha2 = 0.04; 
-beta2 = 0.02;
+h = 1.3332;    
+mu = 9e-3;  
+beta1 = 3.422e-10; 
+c = 0.36;   
+d =1;  
+alpha2 = 2.9077e-13; 
+beta2 = 2.9077e-11;  
 ```
 
 These parameters are constants used to model the dynamics of the system of equations. They were derived from the literature to accurately represent a preliminary system.
