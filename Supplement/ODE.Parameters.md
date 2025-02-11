@@ -10,42 +10,6 @@ Initial condition for the populations at time $t = 0$.
 - **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
 
 ### Parameters
-
-- **$a_1$ (Growth rate of $N$)**: Coefficient governing the growth rate of $N$.
-- **$a_2$ (Mortality rate of $N$)**: Mortality rate of $N$.
-- **$b$ (Regulation for $N$)**: Density-dependent regulation for $N$ (logistic growth).
-- **$c$ (Intrinsic growth of $T$)**: Intrinsic growth rate of $T$.
-- **$d$ (Density for $T$)**: Density-dependent regulation for $T$.
-- **$r_1$ (Growth rate of $L$ due to $N$ and $T$ interaction)**: Rate at which $L$ grows due to interaction with $N$ and $T$.
-- **$r_2$ (Growth rate of $L$ from input)**: Growth rate of $L$.
-- **$I_0$ (Initial level)**: Initial level of some quantity (define more specifically if needed).
-- **$h$ (Decay rate)**: Time scale for decay or rate of decay.
-- **$\mu$ (Decay rate of $L$)**: Mortality rate of $L$.
-- **$\alpha_1$ (Predation or interaction rate between $N$ and $T$)**: Rate at which $N$ affects $T$.
-- **$\alpha_2$ (Predation or interaction rate between $N$ and $T$)**: Rate at which $N$ affects $T$.
-- **$\beta_1$ (Effect of $T$ on $L$'s growth)**: Impact of $T$ on the growth of $L$.
-- **$\beta_2$ (Effect of $L$ on $T$'s growth)**: Effect of $L$ on $T$'s growth.
-
-
-### Parameters
-| **Parameter** | **Units**          | **Description**                                                   | **Estimated Value (units)** | **Source**                                                                 |
-|---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| a1            | day^-1             | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
-| a2            | day^-1             | Natural death rate of NK cells                                     | 0.069                       | Zhang et al., 2007                                                         |
-| b             | cell^-1            | Inverse of NK cells carrying capacity                              | 8e-10                       | Zhang et al., 2007                                                         |
-| c             | cell^-1 day^-1     | Growth rate of tumor                                              | 0.36                        | Buceta & Galeano, 2005                                                     |
-| d             | cell^-1 day^-1     | Inverse of tumor carrying capacity                                 | 1                           | Gerlee & Anderson, 2015                                                   |
-| r1            | cell^-1 day^-1     | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e-11                  | de Pillis et al., 2008                                                     |
-| r2            | cell^-1 day^-1     | Rate of drug-activated CTL cells                                   | 5.8467e-13                  | de Pillis et al., 2008                                                     |
-| Io            | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
-| h             | day^-1             | Drug half-life                                                     | 1.3332                      | de Pillis et al., 2008                                                     |
-| mu            | cell^-1 day^-1     | Death rate of CTLs                                                 | 9e-3                        | de Pillis et al., 2008                                                     |
-| alpha 1       | cell^-1 day^-1     | Rate of NK cell death due to tumor interaction                     | 2.794e-13                   | de Pillis et al., 2008                                                     |
-| alpha 2       | cell^-1 day^-1     | Rate of NK-induced tumor death                                     | 2.9077e-13                  | de Pillis et al., 2008                                                     |
-| beta 1        | cell^-1 day^-1     | Rate of CTLs death due to tumor interaction                        | 3.422e-10                   | de Pillis et al., 2008                                                     |
-| beta 2        | cell^-1 day^-1     | Rate of CTLs-induced tumor deaths                                  | 2.9077e-11                  | de Pillis et al., 2008                                                     |
-
-### Parameters
 | **Parameter** | **Units**          | **Description**                                                   | **Estimated Value (units)** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
 | **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
