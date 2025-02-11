@@ -46,11 +46,6 @@ y0 = [N0; L0; T0];
 
 `N₀`, `L₀`, and `T₀` are the starting values for the three variables in the system. `y₀` is the vector that combines these values. 
 
-In the model:  
-- `y(1)` corresponds to **N**,  
-- `y(2)` corresponds to **L**,  
-- `y(3)` corresponds to **T**.  
-
 ## Time Span
 
 The simulated time interval is set by:
@@ -81,6 +76,11 @@ References to official MATLAB documentation:
   - `t` is a vector of time points where the solution was evaluated.  
   - `y` is a matrix where each row corresponds to a time point, and each column corresponds to one of the variables.
 
+In the model:  
+- `y(1)` corresponds to **N**,  
+- `y(2)` corresponds to **L**,  
+- `y(3)` corresponds to **T**.  
+
 ## Extracting Solutions from `ode45`
 
 After solving, the solution matrix `y` is split into individual vectors for each variable:
@@ -95,7 +95,7 @@ Each vector (`N`, `L`, and `T`) represents the time evolution of a specific vari
 
 ## Confirmation of the System of Ordinary Differential Equations 
 
-A figure is created to display the system of equations using LaTeX formatting. The axis is turned off because the purpose is to display text rather than plot data. The equations are defined as LaTeX strings and rendered on the figure with the `text` function.
+A figure is created to display the system of equations using LaTeX formatting. The equations are defined as LaTeX strings and rendered on the figure with the `text` function.
 
 #### Script snippet for displaying one of the equations:
 
