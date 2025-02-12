@@ -10,7 +10,7 @@ Initial condition for the populations at time $t = 0$.
 - **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
 
 ### Parameters
-| **Parameter** | **Units**          | **Description**                                                   | **Estimated Value (units)** | **Source**                                                                 |
+| **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
 | **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
 | **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 0.069                       | Zhang et al., 2007                                                         |
