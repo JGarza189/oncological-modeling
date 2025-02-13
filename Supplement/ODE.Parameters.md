@@ -12,11 +12,11 @@ Initial condition for the populations at time $t = 0$.
 ### Parameters (Oncology_Model_1)
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 1.30e-4                       | Zhang et al., 2007                                                         |
-| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 4.12e-2                       | Zhang et al., 2007                                                         |
-| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 1.02e-9                       | Zhang et al., 2007                                                         |
-| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 0.36                        | Buceta & Galeano, 2005                                                     |
-| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 1                           | Gerlee & Anderson, 2015                                                   |
+| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 1.30e-4                       | de Pillis et al., 2008                                                         |
+| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 4.12e-2                       | de Pillis et al., 2008                                                         |
+| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 2.5e-2                       | de Pillis et al., 2008                                                         |
+| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 5.14e-1                        | de Pillis et al., 2008                                                     |
+| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 1.02e-9                           | de Pillis et al., 2008                                                   |
 | **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e⁻¹¹                  | de Pillis et al., 2008                                                     |
 | **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 5.8467e⁻¹³                  | de Pillis et al., 2008                                                     |
 | **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
