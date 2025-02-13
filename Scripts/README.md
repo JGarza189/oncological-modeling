@@ -1,6 +1,6 @@
 ## Scripts
 
-### Oncology_Model.m | Oncology_Model.mlx | Oncology_Model.txt
+### Oncology_Model_1.m | Oncology_Model_1.mlx | Oncology_Model_1.txt
 
 These scripts implement a mathematical model for tumor-immune dynamics, focusing on the interactions between tumor cells, NK cells, and CTL cells. It uses a system of ordinary differential equations to simulate tumor growth, immune response, and the effects of immunotherapy. The model incorporates key parameters such as tumor growth rates, immune cell activation, and therapeutic agent effectiveness. These script serves as the core of the project's computational analysis, providing insights into how immunotherapy can influence tumor suppression and immune system activation.
 
@@ -10,5 +10,5 @@ These scripts implement a mathematical model for tumor-immune dynamics, focusing
 
 These scripts were provided by Dr. Rao to solve ODE.
 
-### Oncology_Model_Outline.md
-This file provides a detailed breakdown of the Oncology_Model.mlx script, explaining its structure, key components, and mathematical framework. It serves as a reference for understanding, modifying, and applying the model to tumor-immune interactions.
+### Oncology_Model__1-Outline.md
+This file provides a detailed breakdown of the Oncology_Model_1.mlx script, explaining its structure, key components, and mathematical framework. Developed 2024-02-12
