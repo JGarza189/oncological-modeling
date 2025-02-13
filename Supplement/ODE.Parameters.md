@@ -12,9 +12,9 @@ Initial condition for the populations at time $t = 0$.
 ### Parameters (Oncology_Model_1)
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
-| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 0.069                       | Zhang et al., 2007                                                         |
-| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 8e⁻¹⁰                       | Zhang et al., 2007                                                         |
+| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 1.30e-4                       | Zhang et al., 2007                                                         |
+| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 4.12e-2                       | Zhang et al., 2007                                                         |
+| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 1.02e-9                       | Zhang et al., 2007                                                         |
 | **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 0.36                        | Buceta & Galeano, 2005                                                     |
 | **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 1                           | Gerlee & Anderson, 2015                                                   |
 | **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e⁻¹¹                  | de Pillis et al., 2008                                                     |
