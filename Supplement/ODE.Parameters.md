@@ -9,7 +9,7 @@ Initial condition for the populations at time $t = 0$.
 - **$L_0$ (Initial population of $L$)**: Initial population of CTL cells $L$.
 - **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
 
-### Parameters
+### Parameters (Oncology_Model_1)
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
 | **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.043                       | Zhang et al., 2007                                                         |
