@@ -1,6 +1,6 @@
 ## Scripts
 
-### Oncology_Model_1.m | Oncology_Model_1.mlx | Oncology_Model_1.txt
+### hybrid_1.m | hybrid_1.mlx | hybrid_1.txt
 
 These scripts implement a mathematical model for tumor-immune dynamics, focusing on the interactions between tumor cells, NK cells, and CTL cells. It uses a system of ordinary differential equations to simulate tumor growth, immune response, and the effects of immunotherapy. The model incorporates key parameters such as tumor growth rates, immune cell activation, and therapeutic agent effectiveness. These script serves as the core of the project's computational analysis, providing insights into how immunotherapy can influence tumor suppression and immune system activation.
 

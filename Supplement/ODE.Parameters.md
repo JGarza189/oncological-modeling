@@ -27,23 +27,23 @@ Initial condition for the populations at time $t = 0$.
 | **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 3.422e-10                   | de Pillis et al., 2008                                                     |
 | **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 1.245e-2                  | de Pillis et al., 2008                                                     |
 
-### Parameters 'model_Pillis_2005.mlx'
+### Parameters 'hybrid_1.mlx'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 1.30e4                       | de Pillis et al., 2005                                                         |
-| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 4.12e-2                       | de Pillis et al., 2005                                                         |
-| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 1.02e-9                       | de Pillis et al., 2008                                                         |
-| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 5.14e-1                        | de Pillis et al., 2005                                                     |
-| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 1.02e-9                           | de Pillis et al., 2005                                                    |
+| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.043                       | de Pillis et al., 2005                                                         |
+| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 0.069                       | de Pillis et al., 2005                                                         |
+| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 8e-10                       | de Pillis et al., 2008                                                         |
+| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 0.36                        | de Pillis et al., 2005                                                     |
+| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 1                           | de Pillis et al., 2005                                                    |
 | **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e⁻¹¹                  | de Pillis et al., 2008                                                      |
 | **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 5.8467e⁻¹³                  | de Pillis et al., 2008                                                     |
 | **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
 | **h**         | day⁻¹              | Drug half-life                                                     | 1.3332                      | Estimated via Calculation JG                                                     |
-| **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 2.0e⁻2                        | de Pillis et al., 2005                                                     |
+| **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 9e⁻3                        | de Pillis et al., 2005                                                     |
 | **α₁**        | cell⁻¹ day⁻¹      | Rate of NK cell death due to tumor interaction                     | 2.794e⁻¹³                   | de Pillis et al., 2008                                                     |
 | **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 2.9077e⁻¹³                  | de Pillis et al., 2008                                                     |
-| **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 2.0e⁻2                   | de Pillis et al., 2005                                                     |
-| **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 4.60e-1                  | de Pillis et al., 2005                                                     
+| **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 3.422e⁻10                   | de Pillis et al., 2005                                                     |
+| **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 2.9077e-11                  | de Pillis et al., 2005                                                     
 
 ### Literature Cited
 
