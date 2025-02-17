@@ -9,8 +9,5 @@ Provided are the following components:
 
 This supplement helps define the mathematical framework for studying tumor-immune interactions, serving as a reference for adjusting the model according to real-world data.
 
-## MATLAB.figures.pdf
-This MATLAB.figures.pdf file contains initial model-generated figures that visualize tumor and immune cell dynamics. These figures highlight key trends, aiding in model refinement and validation using data and constants taken from the literature. 
-
 ## manuscript-results.docx | manuscript-results.pdf
 These Word documents presents a written review of our preliminary modeling results.
