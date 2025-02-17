@@ -8,6 +8,3 @@ Provided are the following components:
 - *Model parameters* such as growth rates, interaction coefficients, drug coefficients, and decay rates for tumor and immune cell populations.
 
 This supplement helps define the mathematical framework for studying tumor-immune interactions, serving as a reference for adjusting the model according to real-world data.
-
-## manuscript-results.docx | manuscript-results.pdf
-These Word documents presents a written review of our preliminary modeling results.
