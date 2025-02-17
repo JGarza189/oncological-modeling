@@ -5,10 +5,6 @@ This section outlines the constants, initial conditions, and parameters used in 
 ### Initial Conditions
 Initial condition for the populations at time $t = 0$.
 
-- **$N_0$ (Initial population of $N$)**: Initial population of natural killer cells $N$.
-- **$L_0$ (Initial population of $L$)**: Initial population of CTL cells $L$.
-- **$T_0$ (Initial population of $T$)**: Initial population of tumor cells $T$.
-
 ### Parameters 'Pillis_2008.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
@@ -27,6 +23,12 @@ Initial condition for the populations at time $t = 0$.
 | **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 3.422e-10                   | de Pillis et al., 2008                                                     |
 | **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 1.245e-2                  | de Pillis et al., 2008                                                     |
 
+Initial condition for the populations at time $t = 0$.
+
+- **$N_0$ (Initial population of $N$)**: 10
+- **$L_0$ (Initial population of $L$)**: 5
+- **$T_0$ (Initial population of $T$)**: 2
+
 ### Parameters 'hybrid_1.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
@@ -44,6 +46,12 @@ Initial condition for the populations at time $t = 0$.
 | **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 2.9077e⁻¹³                  | de Pillis et al., 2008                                                     |
 | **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 3.422e⁻10                   | de Pillis et al., 2005                                                     |
 | **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 2.9077e-11                  | de Pillis et al., 2005                                                     
+
+Initial condition for the populations at time $t = 0$.
+
+- **$N_0$ (Initial population of $N$)**: 10
+- **$L_0$ (Initial population of $L$)**: 5
+- **$T_0$ (Initial population of $T$)**: 2
 
 ### Literature Cited
 
