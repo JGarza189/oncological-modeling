@@ -2,9 +2,6 @@
 
 This section outlines the constants, initial conditions, and parameters used in the system of ordinary differential equations for modeling the interaction between populations $N$, $L$, and $T$.
 
-### Initial Conditions
-Initial condition for the populations at time $t = 0$.
-
 ### Parameters 'Pillis_2008.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
