@@ -57,20 +57,20 @@ TSPAN
 ### Parameters 'arbitrary_1.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
 |---------------|--------------------|-------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------|
-| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.5                       | NA                                                         |
-| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 0.1                       | NA                                                         |
-| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 0.02                       | NA                                                         |
-| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 0.6                        | NA                                                     |
-| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 0.02                           | NA                                                    |
-| **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 0.02                  | NA                                                      |
-| **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 0.1                 | NA                                                  |
-| **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | NA                                                    |
-| **h**         | day⁻¹              | Drug half-life                                                     | 10                      | NA                                                     |
-| **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 0.1                        | NA                                                     |
-| **α₁**        | cell⁻¹ day⁻¹      | Rate of NK cell death due to tumor interaction                     | 0.05                   | NA                                                     |
-| **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 0.04                  | NA                                                     |
-| **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 0.03                   | NA                                                     |
-| **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 0.02                  | NA                                                     
+| **a₁**        | day⁻¹              | Growth rate of NK cells                                           | 0.5                       | arbitrary                                                         |
+| **a₂**        | day⁻¹              | Natural death rate of NK cells                                     | 0.1                       | arbitrary                                                         |
+| **b**         | cell⁻¹             | Inverse of NK cells carrying capacity                              | 0.02                       | arbitrary                                                         |
+| **c**         | cell⁻¹ day⁻¹      | Growth rate of tumor                                              | 0.6                        | arbitrary                                                    |
+| **d**         | cell⁻¹ day⁻¹      | Inverse of tumor carrying capacity                                 | 0.02                           | arbitrary                                                   |
+| **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 0.02                  | arbitrary                                                     |
+| **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 0.1                 | arbitrary                                                  |
+| **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | arbitrary                                                   |
+| **h**         | day⁻¹              | Drug half-life                                                     | 10                      | arbitrary                                                   |
+| **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 0.1                        | arbitrary                                                  |
+| **α₁**        | cell⁻¹ day⁻¹      | Rate of NK cell death due to tumor interaction                     | 0.05                   | arbitrary                                               |
+| **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 0.04                  | arbitrary                                                   |
+| **β₁**        | cell⁻¹ day⁻¹      | Rate of CTLs death due to tumor interaction                        | 0.03                   | arbitrary                                              |
+| **β₂**        | cell⁻¹ day⁻¹      | Rate of CTLs-induced tumor deaths                                  | 0.02                  | arbitrary                                                   
 
 Initial condition for the populations at time $t = 0$.
 
