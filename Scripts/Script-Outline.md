@@ -1,4 +1,4 @@
-# Oncology_Model.mlx Script Outline
+# Oncology Script Outline
 
 This document explains the core MATLAB script used to solve a system of ordinary differential equations for this project. This outline covers initialization, parameter definitions, solving the ODE system with `ode45`, and visualizing the results.
 
