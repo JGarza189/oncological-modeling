@@ -13,7 +13,7 @@ This section outlines the constants, initial conditions, and parameters used in 
 | **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e-11                  | de Pillis et al., 2008                                                     |
 | **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 5.8467e-13                  | de Pillis et al., 2008                                                     |
 | **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
-| **h**         | day⁻¹              | Drug half-life                                                     | 0.173                      | Estimated via Calculation JG                                                     |
+| **h**         | day⁻¹              | Drug half-life                                                     | 0.173                      | arbitrary                                                     |
 | **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 9e-3                        | de Pillis et al., 2008                                                     |
 | **α₁**        | cell⁻¹ day⁻¹      | Rate of NK cell death due to tumor interaction                     | 2.794e-13                   | de Pillis et al., 2008                                                     |
 | **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 2.9077e-13                  | de Pillis et al., 2008                                                     |
@@ -39,7 +39,7 @@ TSPAN
 | **r₁**        | cell⁻¹ day⁻¹      | Rate of NK-lysed tumor cell debris activation of CTLs             | 2.9077e⁻¹¹                  | de Pillis et al., 2008                                                      |
 | **r₂**        | cell⁻¹ day⁻¹      | Rate of drug-activated CTL cells                                   | 5.8467e⁻¹³                  | de Pillis et al., 2008                                                     |
 | **I₀**        | dose               | Initial drug dose                                                  | 1.0                         | de Pillis et al., 2008                                                     |
-| **h**         | day⁻¹              | Drug half-life                                                     | 1.3332                      | Estimated via Calculation JG                                                     |
+| **h**         | day⁻¹              | Drug half-life                                                     | 1.3332                      | arbitrary                                                     |
 | **μ**         | cell⁻¹ day⁻¹      | Death rate of CTLs                                                 | 9e⁻3                        | de Pillis et al., 2005                                                     |
 | **α₁**        | cell⁻¹ day⁻¹      | Rate of NK cell death due to tumor interaction                     | 2.794e⁻¹³                   | de Pillis et al., 2008                                                     |
 | **α₂**        | cell⁻¹ day⁻¹      | Rate of NK-induced tumor death                                     | 2.9077e⁻¹³                  | de Pillis et al., 2008                                                     |
