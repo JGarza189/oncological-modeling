@@ -26,7 +26,7 @@ Initial condition for the populations at time $t = 0$.
 - **$L_0$ (Initial population of $L$)**: 5
 - **$T_0$ (Initial population of $T$)**: 2
 
-TSPAN
+TSPAN = [0 100]
 
 ### Parameters 'hybrid_1.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
@@ -52,7 +52,7 @@ Initial condition for the populations at time $t = 0$.
 - **$L_0$ (Initial population of $L$)**: 5
 - **$T_0$ (Initial population of $T$)**: 2
 
-TSPAN
+TSPAN = [0 100]
 
 ### Parameters 'arbitrary_1.m'
 | **Parameter** | **Units**          | **Description**                                                   | **Value** | **Source**                                                                 |
@@ -78,7 +78,7 @@ Initial condition for the populations at time $t = 0$.
 - **$L_0$ (Initial population of $L$)**: 5
 - **$T_0$ (Initial population of $T$)**: 2
 
-TSPAN
+TSPAN = [0 100]
 
 ### Literature Cited
 
