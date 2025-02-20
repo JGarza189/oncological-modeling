@@ -80,6 +80,10 @@ Initial condition for the populations at time $t = 0$.
 
 TSPAN = [0 100]
 
+### Parameters 'nondimensionalized.m'
+
+Place parameters here ..
+
 ### Literature Cited
 
 
