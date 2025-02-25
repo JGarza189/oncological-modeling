@@ -1,5 +1,8 @@
 ## Supplement
 
+## patient-populatons.pharmacology.md
+Description here ..
+
 ## ODE.parameters.md
 This markdown file outlines the parameters, initial conditions, and constants used in our system of ordinary differential equations for modeling the dynamics between tumor cells (T), CTL cells (L), and natural killer cells (N). 
 
