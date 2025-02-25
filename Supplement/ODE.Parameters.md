@@ -124,12 +124,11 @@ Place parameters here ..
 
 ### Literature Cited
 
+- Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. 
 
-- **Source**: Zhang, Y., Wallace, D. L., De Lara, C. M., Ghattas, H., Asquith, B., Worth, A., Griffin, G. E., Taylor, G. P., Tough, D. F., Beverley, P. C., & Macallan, D. C. (2007). *In vivo kinetics of human natural killer cells: The effects of ageing and acute and chronic viral infection*. Immunology, 121(2), 258–265. 
+- Buceta, J., & Galeano, J. (2005). *Comments on the article “The universal dynamics of tumor growth” by A. Brú et al.* Biophysical Journal, 88(5), 3734–3736. 
 
-- **Source**: Buceta, J., & Galeano, J. (2005). *Comments on the article “The universal dynamics of tumor growth” by A. Brú et al.* Biophysical Journal, 88(5), 3734–3736. 
+- Gerlee, P., & Anderson, A. R. (2015). *The evolution of carrying capacity in constrained and expanding tumour cell populations*. Physical Biology, 12(5), 056001.
 
-- **Source**: Gerlee, P., & Anderson, A. R. (2015). *The evolution of carrying capacity in constrained and expanding tumour cell populations*. Physical Biology, 12(5), 056001.
-
-- **Source**: de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184.
+- de Pillis, L., Fister, K. R., Gu, W., Collins, C., Daub, M., Gross, D., Moore, J., & Preskill, B. (2008). *Mathematical model creation for cancer chemo‐immunotherapy*. Computational and Mathematical Methods in Medicine, 10(3), 165–184.
 
