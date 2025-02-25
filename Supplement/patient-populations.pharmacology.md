@@ -30,6 +30,8 @@ This section outlines the constants, initial conditions, and parameters used in 
 
 ### Pharmacological (Drug) Interactions
 
+Write paragraph and charts on what drugs to what
+
 ### Literature Cited
 
 
