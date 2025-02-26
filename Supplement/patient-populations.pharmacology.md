@@ -25,7 +25,7 @@ Stage MS is metastatic disease found in patients younger than 18 months (547 day
 | **M**     | Distant metastatic disease. Nonregional lymph node involvement is metastatic. Tumors with ascites/pleural effusion with malignant cells are not metastatic unless distant from the primary tumor. |
 | **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10 Percent. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. 
 
-The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Monclair et al., 2009).
+The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Tolbert and Matthay, 2018).
 
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
@@ -71,9 +71,7 @@ For our study, we chose to model the effects of two common drugs. In patiuclar, 
 #### Cisplatin (Chemotherapy - Platinum Based)
 Cisplatin is one of the most common first-line therapeutic agents used for the treatment of various cancer causing tumors (Donzelli et al., 2004).
 
-#### 
-
-### Literature Cited
+#### Literature Cited
 
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
@@ -82,6 +80,8 @@ Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holme
 Nader, J. H., Bourgeois, F., Bagatell, R., Moreno, L., Pearson, A. D., & DuBois, S. G. (2022). Systematic review of clinical drug development activities for neuroblastoma from 2011 to 2020. Pediatric Blood &amp; Cancer, 70(5).
 
 Neuroblastoma chemotherapy and related drugs: Neuroblastoma treatment. Neuroblastoma Chemotherapy and Related Drugs | Neuroblastoma Treatment | American Cancer Society. (n.d.). https://www.cancer.org/cancer/types/neuroblastoma/treating/chemotherapy.html#:~:text=The%20most%20common%20combination%20of,be%20given%20at%20higher%20doses. 
+
+Tolbert, V. P., & Matthay, K. K. (2018). Neuroblastoma: Clinical and biological approach to risk stratification and treatment. Cell and Tissue Research, 372(2), 195–209.
 
 
 
