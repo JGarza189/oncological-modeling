@@ -35,7 +35,7 @@ The interpretation of neuroblastoma staging and risk classification involves bot
 | **Medium Risk**   | **L2** (regional tumors with IDRFs) and **MS** with unfavorable biology (e.g., diploidy) are classified as intermediate risk. These tumors may need chemotherapy, with surgery recommended if possible. | Tolbert & Matthay, 2018   |
 | **High Risk**     | **M** (distant metastases), **MS** with MYCN amplification, or **L2** in patients over 18 months with unfavorable features are high risk. These patients require aggressive treatment including chemotherapy, surgery, and stem cell therapy. | Tolbert & Matthay, 2018   |
 
-To establish the initial conditions for our mathematical model, we differentiated three distinct patient populations—low-risk, medium-risk, and high-risk—based on tumor stage and biological factors. We then derived the relative abundance of tumor cells, CTLs, and NK cells for each patient population from the literature, ensuring that the initial conditions capture the clinical variability in immune cell populations and tumor burden across the different risk groups.
+To establish the initial conditions for our mathematical model, we differentiated three distinct patient populations—low-risk, medium-risk, and high-risk—based on tumor stage and biological factors. We then derived the relative abundance of tumor cells, CTLs, and NK cells for each patient population from the literature, ensuring that the initial conditions capture the clinical variability in immune cell populations and tumor response across the different risk groups.
 
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
