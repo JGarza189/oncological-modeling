@@ -1,8 +1,8 @@
 ## Patient Population & Pharmacology
 
-This document outlines the parameters used in our system of ordinary differential equations (ODEs) for modeling the interaction between cell populations $N$ (Natural Killer Cells), $L$ (CTL Cells), $T$ (Tumor Cells), and whilst incorporating a drug interaction term $D$ (Drug Concentration). The model incorporates tumor stages and treatment strategies, which are critical for defining initial conditions and simulating the progression of the Neuroblastoma over time.
+This document outlines the parameters used in our system of ordinary differential equations (ODEs) for modeling the interaction between cell populations $N$ (Natural Killer Cells), $L$ (CTL Cells), $T$ (Tumor Cells), whilst incorporating a drug interaction term $D$ (Drug Concentration). The model incorporates tumor stages and treatment strategies, which are critical for defining initial conditions and simulating the progression of the Neuroblastoma over time.
 
-The dynamic interactions between tumor progression, drug concentration, and patient response are defined by the proposed initial conditions, which are tailored according to the patient's disease stage and patient profile. This modeling approach helps optimize treatment plans by simulating various scenarios and predicting treatment efficacy for individual patient populations.
+The interactions between tumor progression, drug concentration, and patient population are incorporated in the proposed initial conditions, which are tailored according to the patient's disease stage and patient profile. This modeling approach optimizes treatment plans by simulating various scenarios and predicting treatment efficacy for individual patient populations.
 
 ### Patient Populations
 
