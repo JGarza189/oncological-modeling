@@ -37,7 +37,7 @@ The interpretation of neuroblastoma staging and risk classification involves bot
 
 To establish the initial conditions for our mathematical model, we differentiated three distinct patient populations—low-risk, medium-risk, and high-risk—based on tumor stage and biological factors. We then derived the relative abundance of tumor cells, CTLs, and NK cells for each patient population from the literature, ensuring that the initial conditions capture the clinical variability in immune cell populations and tumor response across the different risk groups, with a particular emphasis on relative ratios. 
 
-### Parameters for the (Low Risk) patient population
+### Parameters for the **Low Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
 | **N₀**        | cells               | initial amount of cells          | TBD       | source         |
@@ -47,7 +47,7 @@ To establish the initial conditions for our mathematical model, we differentiate
 
 The low-risk population has a relatively low tumor cell count and strong immune responses, with NK cells providing immediate defense as part of the innate immune system. While CTLs, which are part of the adaptive immune response, offer a more targeted and long-term defense, they are present in lower quantities compared to NK cells.
 
-### Parameters for the (Intermediate Risk) patient population
+### Parameters for the **Intermediate Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
 | **N₀**        | cells               | initial amount of cells          | TBD       | source         |
@@ -57,7 +57,7 @@ The low-risk population has a relatively low tumor cell count and strong immune 
 
 The intermediate-risk population has a higher tumor cell count than low-risk patients, leading to a more prominent role for CTLs in the immune response. Though NK cells still provide an initial response, the increased presence of tumor cells requires a more coordinated and adaptive immune response, with CTLs becoming more critical in targeting and eliminating the growing tumor cells.
 
-### Parameters for the (High Risk) patient population
+### Parameters for the **High Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
 | **N₀**        | cells               | initial amount of cells          | TBD       | source         |
