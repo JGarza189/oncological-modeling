@@ -28,6 +28,17 @@ Stage MS is metastatic disease found in patients younger than 18 months (547 day
 
 The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Tolbert and Matthay, 2018).
 
+| **Risk Category** | **Description**                                                                                                                                                        | **Source**               |
+|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| **Low Risk**      | **L1/L2 (with favorable histology):** Localized or locoregional tumors with favorable histology. Observation is appropriate for infants <6 months with small, asymptomatic tumors. Surgery is often not required, and tumors may regress spontaneously. | (Tolbert & Matthay, 2018) |
+|                   | **MS (asymptomatic with favorable biology):** Metastatic disease in infants <18 months with favorable biology, such as MYCN non-amplification. These patients may be monitored without surgery or chemotherapy. | (Tolbert & Matthay, 2018) |
+| **Medium Risk**   | **L2 (non-MYCN amplified, unfavorable histology/genetics):** Locoregional tumors with unfavorable features, requiring chemotherapy and possibly surgery. Less intensive therapy is used compared to high-risk patients. | (Tolbert & Matthay, 2018) |
+|                   | **M (patients <18 months):** Stage M disease in infants under 18 months with distant metastatic disease. Chemotherapy is required to reduce tumor burden, followed by surgery if possible. | (Tolbert & Matthay, 2018) |
+|                   | **MS (unfavorable biology):** Metastatic disease with unfavorable biology features such as diploidy or chromosomal abnormalities, requiring chemotherapy. | (Tolbert & Matthay, 2018) |
+| **High Risk**     | **Stage M (age >18 months, MYCN amplification, or L2 with unfavorable histology):** Advanced stage disease with poor prognosis, requiring intense chemotherapy, surgery, myeloablative therapy, stem cell transplant, and radiation. | (Tolbert & Matthay, 2018) |
+|                   | **Treatment duration:** Typically lasts about 18 months or longer, depending on response and complications. | (Tolbert & Matthay, 2018) |
+
+
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
@@ -72,7 +83,7 @@ For our study, we chose to model the effects of two common drugs. In patiuclar, 
 #### Cisplatin (Chemotherapy - Platinum Based)
 Cisplatin is one of the most common first-line therapeutic agents used for the treatment of various cancer causing tumors (Donzelli et al., 2004).
 
-#### Literature Cited
+### Literature Cited
 
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
