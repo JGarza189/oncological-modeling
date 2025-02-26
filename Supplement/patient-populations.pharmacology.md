@@ -1,6 +1,8 @@
 ## Patient Population & Pharmacology
 
-This section outlines the parameters used in the system of ordinary differential equations for modeling the interaction between populations $N$, $L$, $D$, and $T$.
+This section outlines the parameters used in the system of ordinary differential equations (ODEs) for modeling the interaction between populations $N$ (Natural Killer Cells), $L$ (CTL Cells), $D$ (Drug Concentration), and $T$ (Tumor Cells). The model incorporates tumor stages and treatment strategies, which are critical for defining the initial conditions and simulating the progression of the Neuroblastoma over time.
+
+The dynamic interactions between tumor progression, drug concentration, and patient response are defined by the proposed initial conditions, which are tailored according to the patient's disease stage and patient profile. This modeling approach helps optimize treatment plans by simulating various scenarios and predicting treatment efficacy for individual patient populations.
 
 ### Patient Populations
 
@@ -25,7 +27,6 @@ Stage MS is metastatic disease found in patients younger than 18 months (547 day
 | **M**     | Distant metastatic disease. Nonregional lymph node involvement is metastatic. Tumors with ascites/pleural effusion with malignant cells are not metastatic unless distant from the primary tumor. | (Monclair et al., 2009)   |
 | **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10 Percent. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. | (Monclair et al., 2009)   |
 
-
 The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Tolbert and Matthay, 2018).
 
 | **Risk Category** | **Description**                                                                                                                                                                    | **Source**                |
@@ -33,8 +34,6 @@ The interpretation of neuroblastoma staging and risk classification involves bot
 | **Low Risk**      | Patients with **L1** (localized tumors in one area) or **MS** (asymptomatic with favorable biology and metastases limited to skin, liver, or bone marrow) are considered low risk. These patients typically require observation, with surgery or chemotherapy only if symptoms arise. | Tolbert & Matthay, 2018   |
 | **Medium Risk**   | **L2** (regional tumors with IDRFs) and **MS** with unfavorable biology (e.g., diploidy) are classified as intermediate risk. These tumors may need chemotherapy, with surgery recommended if possible. | Tolbert & Matthay, 2018   |
 | **High Risk**     | **M** (distant metastases), **MS** with MYCN amplification, or **L2** in patients over 18 months with unfavorable features are high risk. These patients require aggressive treatment including chemotherapy, surgery, and stem cell therapy. | Tolbert & Matthay, 2018   |
-
-
 
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
@@ -61,12 +60,10 @@ The interpretation of neuroblastoma staging and risk classification involves bot
 | **T₀**        | cells               | Initial amount of cells          | 0.02     | source         |
 | **D₀**        | cells               | dose of a specific drug       | 0.1       | source         |
 
-
 ### Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic therapies for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients under 18 years of age, spanning from patient populations in phase 1 to phase 3. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology (ASCO) annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
 For our study, we chose to model the effects of two common drugs. In patiuclar, we incorpated the effects of 
-
 
 ### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma (American Cancer Society, 2025) (NIH, 2025).
 
