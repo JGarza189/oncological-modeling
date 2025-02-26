@@ -23,7 +23,9 @@ Stage MS is metastatic disease found in patients younger than 18 months (547 day
 | **L1**    | Localized tumors confined to one body compartment (neck, chest, abdomen, or pelvis) without IDRF involvement. Intraspinal tumor extension not fulfilling IDRF criteria is also L1. |
 | **L2**    | Locoregional tumors with one or more IDRFs. Tumors may be ipsilateral within body compartments. Bilateral involvement (e.g., left-sided abdominal tumor with right-sided chest) is metastatic. |
 | **M**     | Distant metastatic disease. Nonregional lymph node involvement is metastatic. Tumors with ascites/pleural effusion with malignant cells are not metastatic unless distant from the primary tumor. |
-| **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10%. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. |
+| **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10 Percent. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. 
+
+The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Monclair et al., 2009).
 
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
