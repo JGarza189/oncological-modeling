@@ -2,6 +2,29 @@
 
 This section outlines the parameters used in the system of ordinary differential equations for modeling the interaction between populations $N$, $L$, $D$, and $T$.
 
+### Patient Populations
+
+Our approach to modeling the immunotherapeutic dynamics of neuroblastoma is built upon the International Neuroblastoma Risk Group Staging System (INRGSS). The use of the INRGSS and its corresponding risk classification (INRG) has greatly enhanced the ability to compare risk-based clinical trials conducted across different regions of the world (Monclair et al., 2009). In this study, we utilize this system to differentiate patient populations, capitalizing on its effectiveness in enabling the comparison of clinical trials conducted globally.
+
+Stage L1:
+Stage L1 tumors are localized and confined to one body compartment (neck, chest, abdomen, or pelvis), without involvement of vital structures as defined by the list of IDRFs (Table 1). An isolated finding of intraspinal tumor extension that does not meet the criteria for an IDRF is also classified as stage L1.
+
+Stage L2:
+Stage L2 tumors are locoregional and involve one or more IDRFs. These tumors may extend ipsilaterally within body compartments. For example, a left-sided abdominal tumor with left-sided chest involvement is classified as stage L2. However, a tumor that involves both sides of the body, such as a left-sided abdominal tumor with right-sided chest involvement (or vice versa), is considered metastatic disease.
+
+Stage M:
+Stage M indicates distant metastatic disease, meaning the tumor is not contiguous with the primary tumor, except as defined for stage MS. Nonregional lymph node involvement is classified as metastatic disease. However, tumors with enlarged lymph nodes in nonregional sites—such as an upper abdominal tumor with enlarged lower mediastinal nodes or a pelvic tumor with inguinal lymph node involvement—are still considered locoregional disease. Ascites and pleural effusion, even with malignant cells, are not classified as metastatic unless they are distant from the primary tumor's body compartment.
+
+Stage MS:
+Stage MS is metastatic disease found in patients younger than 18 months (547 days) with metastases confined to the skin, liver, and/or bone marrow. Bone marrow involvement must be limited to less than 10% of total nucleated cells, as seen on smears or biopsy. MIBG scintigraphy must be negative in bone and bone marrow. If there is MIBG uptake in the primary tumor, bone scans are not required. The primary tumor may be classified as either L1 or L2, with no restrictions regarding crossing or infiltration of the midline.
+
+| **Stage** | **Description**                                                                                         |
+|-----------|---------------------------------------------------------------------------------------------------------|
+| **L1**    | Localized tumors confined to one body compartment (neck, chest, abdomen, or pelvis) without IDRF involvement. Intraspinal tumor extension not fulfilling IDRF criteria is also L1. |
+| **L2**    | Locoregional tumors with one or more IDRFs. Tumors may be ipsilateral within body compartments. Bilateral involvement (e.g., left-sided abdominal tumor with right-sided chest) is metastatic. |
+| **M**     | Distant metastatic disease. Nonregional lymph node involvement is metastatic. Tumors with ascites/pleural effusion with malignant cells are not metastatic unless distant from the primary tumor. |
+| **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10%. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. |
+
 ### Parameters for the (Low Risk) patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
@@ -34,14 +57,12 @@ A systematic pharmacological review of the literature spanning from 2011 to 2020
 For our study, we chose to model the effects of two common drugs. In patiuclar, we incorpated the effects of 
 
 
-### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma (American Cancer Society, 2025) 
+### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma (American Cancer Society, 2025) (NIH, 2025).
 
 - Cyclophosphamide
-- Cisplatin and Carboplatin
 - Vincristine
 - Doxorubicin (Adriamycin)
-- Etoposide
-- Topotecan
+- Cisplatin 
 
 "Doctors give chemo in cycles. Treatment is given for a few days in a row, followed by time off to allow the body time to recover. The cycles are typically repeated every 3 or 4 weeks. The total length of treatment depends on which risk group the child is in – higher risk groups usually require longer treatment (ACS, 2025)."
 
@@ -54,7 +75,11 @@ Cisplatin is one of the most common first-line therapeutic agents used for the t
 
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
+Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
+
 Nader, J. H., Bourgeois, F., Bagatell, R., Moreno, L., Pearson, A. D., & DuBois, S. G. (2022). Systematic review of clinical drug development activities for neuroblastoma from 2011 to 2020. Pediatric Blood &amp; Cancer, 70(5).
+
+Neuroblastoma chemotherapy and related drugs: Neuroblastoma treatment. Neuroblastoma Chemotherapy and Related Drugs | Neuroblastoma Treatment | American Cancer Society. (n.d.). https://www.cancer.org/cancer/types/neuroblastoma/treating/chemotherapy.html#:~:text=The%20most%20common%20combination%20of,be%20given%20at%20higher%20doses. 
 
 
 
