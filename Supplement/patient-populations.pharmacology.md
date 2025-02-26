@@ -28,15 +28,13 @@ Stage MS is metastatic disease found in patients younger than 18 months (547 day
 
 The interpretation of neuroblastoma staging and risk classification involves both tumor stage and biological factors. Stage L1 is generally associated with **low-risk** disease, as it involves localized tumors confined to one body compartment. Stage L2, which includes regional tumors with one or more IDRFs, is considered **intermediate risk**, as it may require more aggressive treatment but still has a relatively favorable prognosis. Stage M, representing distant metastatic disease, is classified as **high risk** due to the advanced spread of the tumor. Additionally, Stage MS can present variable risk depending on factors like age and metastasis location, often requiring tailored treatment approaches (Tolbert and Matthay, 2018).
 
-| **Risk Category** | **Description**                                                                                                                                                        | **Source**               |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| **Low Risk**      | **L1/L2 (with favorable histology):** Localized or locoregional tumors with favorable histology. Observation is appropriate for infants <6 months with small, asymptomatic tumors. Surgery is often not required, and tumors may regress spontaneously. | (Tolbert & Matthay, 2018) |
-|                   | **MS (asymptomatic with favorable biology):** Metastatic disease in infants <18 months with favorable biology, such as MYCN non-amplification. These patients may be monitored without surgery or chemotherapy. | (Tolbert & Matthay, 2018) |
-| **Medium Risk**   | **L2 (non-MYCN amplified, unfavorable histology/genetics):** Locoregional tumors with unfavorable features, requiring chemotherapy and possibly surgery. Less intensive therapy is used compared to high-risk patients. | (Tolbert & Matthay, 2018) |
-|                   | **M (patients <18 months):** Stage M disease in infants under 18 months with distant metastatic disease. Chemotherapy is required to reduce tumor burden, followed by surgery if possible. | (Tolbert & Matthay, 2018) |
-|                   | **MS (unfavorable biology):** Metastatic disease with unfavorable biology features such as diploidy or chromosomal abnormalities, requiring chemotherapy. | (Tolbert & Matthay, 2018) |
-| **High Risk**     | **Stage M (age >18 months, MYCN amplification, or L2 with unfavorable histology):** Advanced stage disease with poor prognosis, requiring intense chemotherapy, surgery, myeloablative therapy, stem cell transplant, and radiation. | (Tolbert & Matthay, 2018) |
-|                   | **Treatment duration:** Typically lasts about 18 months or longer, depending on response and complications. | (Tolbert & Matthay, 2018) |
+| **Stage** | **Description**                                                                                                                                                        | **Source**               |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| **L1**    | Localized tumors confined to one body compartment (neck, chest, abdomen, or pelvis) without IDRF involvement. Intraspinal tumor extension not fulfilling IDRF criteria is also L1. | (Monclair et al., 2009)  |
+| **L2**    | Locoregional tumors with one or more IDRFs. Tumors may be ipsilateral within body compartments. Bilateral involvement (e.g., left-sided abdominal tumor with right-sided chest) is metastatic. | (Monclair et al., 2009)  |
+| **M**     | Distant metastatic disease. Nonregional lymph node involvement is metastatic. Tumors with ascites/pleural effusion with malignant cells are not metastatic unless distant from the primary tumor. | (Monclair et al., 2009)  |
+| **MS**    | Metastatic disease in patients under 18 months with metastases confined to skin, liver, and/or bone marrow. Bone marrow involvement should be <10 percent. MIBG scintigraphy must be negative in bone/marrow. Primary tumor can be L1 or L2. | (Monclair et al., 2009)  |
+
 
 
 ### Parameters for the (Low Risk) patient population
