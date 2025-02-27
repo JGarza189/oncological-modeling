@@ -40,9 +40,9 @@ To establish the initial conditions for our mathematical model, we differentiate
 ### Parameters for the **Low Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
-| **N₀**        | cells               | initial amount of cells          | TBD       | source         |
-| **L₀**        | cells               | initial amount of cells          | TBD         |  source         |
-| **T₀**        | cells               | Initial amount of cells          | TBD    | source         |
+| **N₀**        | cells               | initial amount of cells          | 10       | source         |
+| **L₀**        | cells               | initial amount of cells          | 1         |  source         |
+| **T₀**        | cells               | Initial amount of cells          | 1    | source         |
 | **D₀**        | cells               | dose of a specific drug       | TBD       | source         |
 
 The low-risk population has a relatively low tumor cell count and strong immune responses, with NK cells providing immediate defense as part of the innate immune system. While CTLs, which are part of the adaptive immune response, offer a more targeted and long-term defense, they are present in lower quantities compared to NK cells.
@@ -50,9 +50,9 @@ The low-risk population has a relatively low tumor cell count and strong immune 
 ### Parameters for the **Intermediate Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
-| **N₀**        | cells               | initial amount of cells          | TBD       | source         |
-| **L₀**        | cells               | initial amount of cells          | TBD       |  source         |
-| **T₀**        | cells               | Initial amount of cells          | TBD     | source         |
+| **N₀**        | cells               | initial amount of cells          | 10       | source         |
+| **L₀**        | cells               | initial amount of cells          | 5       |  source         |
+| **T₀**        | cells               | Initial amount of cells          | 10     | source         |
 | **D₀**        | cells               | dose of a specific drug       | TBD       | source         |
 
 The intermediate-risk population has a higher tumor cell count than low-risk patients, leading to a more prominent role for CTLs in the immune response. Though NK cells still provide an initial response, the increased presence of tumor cells requires a more coordinated and adaptive immune response, with CTLs becoming more critical in targeting and eliminating the growing tumor cells.
@@ -60,9 +60,9 @@ The intermediate-risk population has a higher tumor cell count than low-risk pat
 ### Parameters for the **High Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
 |---------------|--------------------|------------------------------------|-----------|------------------|
-| **N₀**        | cells               | initial amount of cells          | TBD       | source         |
-| **L₀**        | cells               | initial amount of cells          | TBD       |  source         |
-| **T₀**        | cells               | Initial amount of cells          | TBD     | source         |
+| **N₀**        | cells               | initial amount of cells          | 7       | source         |
+| **L₀**        | cells               | initial amount of cells          | 10       |  source         |
+| **T₀**        | cells               | Initial amount of cells          | 100     | source         |
 | **D₀**        | cells               | dose of a specific drug       | TBD       | source         |
 
 In the high-risk population, the tumor cell count is higher, and the immune system faces greater challenges. NK cells provide the first line of defense, but CTLs are essential for long-term tumor control, especially as they can target specific antigens and provide a more sustained immune response against the rapidly growing tumor cells.
