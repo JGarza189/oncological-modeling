@@ -69,13 +69,33 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 
 ### Cell Biology Notes
 
-#### NK Cell Dynamics (Jamieson et al., 2004)
+#### Turnover and proliferation of NK cells in steady state and lymphopenic conditions (Jamieson et al., 2004)
 
 The proliferation rate of NK cells in the body generally remains constant. However, studies have shown that homeostatic regulation can restore proliferation to normal levels when deviations occur.  
 
 > "The data confirm that most splenic NK cells in adults are not dividing rapidly. However, we did detect a small cycling splenic NK population in steady-state conditions, suggesting either that a small NK subset is rapidly dividing or that many NK cells divide infrequently. One of our most interesting findings was that splenic NK cells undergo homeostatic proliferation, as shown by the much greater proliferation. The results suggest that the lymphocyte count in the animal is somehow used as a sensor, such that NK cell proliferation is induced when lymphocyte counts are low. This mechanism may serve to rapidly expand NK cell counts back to normal in animals suffering from lymphoid cell depletion."  
 > — *Jamieson et al., 2004*
 
+
+#### Advances in NK cell production (Fang et al., 2022)
+
+> "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo, both of which are still lower than the lifespan of effector CD8+ T cells and memory CD8+ T cells in vivo (approximately 2–3 weeks to months). Moreover, the doubling time of NK cells in response to stimulation is approximately 1.5 days; in contrast, naïve T cells can rapidly divide, undergoing 15 divisions within 7 days and having a doubling time of approximately 10 hours in response to stimulation. These characteristics of NK cells highlight that the optimal regimens and indications for NK cell therapy are different from those of T cell therapy."  
+
+> "However, the correlation of NK cell number and proportion with disease prognosis varies across tumor types..."  
+
+> "The sensitivity of NK cells versus CD8+ T cells to chemotherapeutic drugs or radiotherapy: After the first course of treatment with most chemotherapeutic drugs, such as docetaxel, 5-FU, CPT-11, fludarabine, and cyclophosphamide, NK cells and CD8+ T cells decrease slightly or significantly, but these two types of cells do not show a difference in sensitivity to chemotherapeutic drugs. However, after the second course of docetaxel administration, a further decrease in the absolute number of CD8+ T cells, but not NK cells, is observed [43]. Therefore, the sensitivity of NK cells and T cells to chemotherapy drugs is not significantly different in the early stage of chemotherapy."  
+
+> "Proliferation in vivo: Approximately 5.1 percent of CD8+ T cells proliferate per day, resulting in an average doubling time of 14 days in the resting state. After activation, T cells enter the rapid proliferation phase, and approximately 46.8 percent of CD8+ T cells proliferate per day, equivalent to a doubling time of 1.5 days. The proliferation rate is approximately 10 times higher than that of resting T cells. However, the mean percentage of proliferative NK cells in healthy individuals is 4.3 ± 2.4 percent per day (equivalent to a doubling time of 16 days), increasing to approximately 5.7 percent per day after infection. Studies have also identified numerous NK and T cell receptors and downstream signaling molecules, demonstrating that NK cell expansion is limited to approximately 1,000-fold, whereas T cell expansion can exceed 50,000-fold for certain epitopes."  
+
+#### Mathematical Models of Tumor Cell Proliferation: A Review of the Literature (Jarrett et al., 2018)
+
+> "One approach to mathematical modeling of proliferation is to employ 'continuum' models that treat the quantities of a system (e.g., tumor cell population or nutrient concentrations) as smooth fields. The two major forms of continuum models are ordinary and partial differential equations (ODEs and PDEs, respectively). ODE models are commonly employed to represent the rates of production and consumption of molecular species. These models assume that the cellular microenvironment is uniform, which is a fundamental limitation of the approach; however, this assumption does make ODE modeling more easily integrated with the data types frequently gathered from biological assays."  
+
+> "Initially, exponential growth models were used, but as in vitro cancer cell population data was collected, it became clear that exponential growth was not an appropriate choice for accurately describing cancer progression beyond only the earliest phases of population growth. Later, Gompertzian and logistic growth were found to represent cellular population data more accurately, as these models contained additional free parameters (relative to exponential growth) that could capture the notion of a 'carrying capacity' (i.e., the maximum number of cells a system can support)."  
+
+> "ODE models that consider cancer proliferation and the immune response generally focus on T cell binding and chemical signaling between immune and tumor cells [86, 87, 88]. A current limitation of such models is that they require detailed and temporally refined data for calibration and validation, which are extraordinarily difficult to measure in an intact system with routinely available methods. Therefore, some efforts have attempted to reduce these systems into more tractable compartments designed to answer specific biological questions of tumor cell growth. For example, it can be shown, using a simplified system of ODEs focusing on the interactions of natural killer cells and cytotoxic T lymphocytes (CTLs), that the presence of an immune component is essential for suppressing tumor cell proliferation."  
+
+> "For mathematical modeling to be of clinical relevance, the models developed must be of a form that can utilize clinically available data."  
 
 
 ### Pharmacology
@@ -96,7 +116,11 @@ Cisplatin is one of the most common first-line therapeutic agents used for the t
 ### Literature Cited
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
+Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
+
 Jamieson, A. M., Isnard, P., Dorfman, J. R., Coles, M. C., & Raulet, D. H. (2004). Turnover and proliferation of NK cells in steady state and lymphopenic conditions. The Journal of Immunology, 172(2), 864–870.
+
+Jarrett, A. M., Lima, E. A. B. F., Hormuth, D. A., McKenna, M. T., Feng, X., Ekrut, D. A., Resende, A. C., Brock, A., & Yankeelov, T. E. (2018). Mathematical models of Tumor Cell Proliferation: A review of the literature. Expert Review of Anticancer Therapy, 18(12), 1271–1286. 
 
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
