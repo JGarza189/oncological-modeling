@@ -74,8 +74,6 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 > "The proliferation rate of NK cells in the body generally remains constant. However, studies have shown that homeostatic regulation can restore proliferation to normal levels when deviations occur."
 
 > "The data confirm that most splenic NK cells in adults are not dividing rapidly. However, we did detect a small cycling splenic NK population in steady-state conditions, suggesting either that a small NK subset is rapidly dividing or that many NK cells divide infrequently. One of our most interesting findings was that splenic NK cells undergo homeostatic proliferation, as shown by the much greater proliferation. The results suggest that the lymphocyte count in the animal is somehow used as a sensor, such that NK cell proliferation is induced when lymphocyte counts are low. This mechanism may serve to rapidly expand NK cell counts back to normal in animals suffering from lymphoid cell depletion."  
-> — *Jamieson et al., 2004*
-
 
 #### Advances in NK cell production (Fang et al., 2022)
 
