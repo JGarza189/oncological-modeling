@@ -67,6 +67,17 @@ The intermediate-risk population has a higher tumor cell count than low-risk pat
 
 In the high-risk population, the tumor cell count is higher, and the immune system faces greater challenges. NK cells provide the first line of defense, but CTLs are essential for long-term tumor control, especially as they can target specific antigens and provide a more sustained immune response against the rapidly growing tumor cells.
 
+### Cell Biology Notes
+
+#### NK Cell Dynamics (Jamieson et al., 2004)
+
+The proliferation rate of NK cells in the body generally remains constant. However, studies have shown that homeostatic regulation can restore proliferation to normal levels when deviations occur.  
+
+> "The data confirm that most splenic NK cells in adults are not dividing rapidly. However, we did detect a small cycling splenic NK population in steady-state conditions, suggesting either that a small NK subset is rapidly dividing or that many NK cells divide infrequently. One of our most interesting findings was that splenic NK cells undergo homeostatic proliferation, as shown by the much greater proliferation. The results suggest that the lymphocyte count in the animal is somehow used as a sensor, such that NK cell proliferation is induced when lymphocyte counts are low. This mechanism may serve to rapidly expand NK cell counts back to normal in animals suffering from lymphoid cell depletion."  
+> — *Jamieson et al., 2004*
+
+
+
 ### Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
@@ -84,6 +95,8 @@ Cisplatin is one of the most common first-line therapeutic agents used for the t
 
 ### Literature Cited
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
+
+Jamieson, A. M., Isnard, P., Dorfman, J. R., Coles, M. C., & Raulet, D. H. (2004). Turnover and proliferation of NK cells in steady state and lymphopenic conditions. The Journal of Immunology, 172(2), 864–870.
 
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
