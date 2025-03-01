@@ -99,21 +99,19 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 ### Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
-"Doctors give chemo in cycles. Treatment is given for a few days in a row, followed by time off to allow the body time to recover. The cycles are typically repeated every 3 or 4 weeks. The total length of treatment depends on which risk group the child is in – higher risk groups usually require longer treatment (ACS, 2025)."
+## Chemotherapy and Immunotherapy Agents in Neuroblastoma Progression Modeling
 
-#### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma in our Model (NIH, 2025).
-- Cyclophosphamide
+### Cyclophosphamide
 
-#### Drugs Used For The Treatment of Neuroblastoma in our Model (NIH, 2025).
-- Interleukin-2 (IL-2) (Immunostimulatory Cytokine)
+### Interleukin-2 (IL-2)
 
-#### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+
 > "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
 
 >"Because stimulated NK cells proved to be very effective in our animal model in the absence of a memory immune response, multiple treatments with the ch14.18–IL-2 fusion protein may well be required to achieve optimal antitumor responses in neuroblastoma patients."
 
-#### Cisplatin (Chemotherapy - Platinum Based)
-Cisplatin is one of the most common first-line therapeutic agents used for the treatment of various cancer causing tumors (Donzelli et al., 2004).
+>"The availability of effective adjuvant treatment for neuroblastoma in the postchemotherapy and transplant phase remains as a major challenge in pediatric hematology/oncology. In this regard, the effectiveness of the ch14.18–IL-2 fusion protein is striking, especially in view of the effector mechanism involved. Thus, we could clearly show in vivo and in vitro that the ch14.18–IL-2 fusion protein stimulates a cellular antitumor response exclusively mediated by NK cells."
 
 ### Literature Cited
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
@@ -129,8 +127,6 @@ Lode, H. N., Xiang, R., Dreier, T., Varki, N. M., Gillies, S. D., & Reisfeld, R.
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
 Nader, J. H., Bourgeois, F., Bagatell, R., Moreno, L., Pearson, A. D., & DuBois, S. G. (2022). Systematic review of clinical drug development activities for neuroblastoma from 2011 to 2020. Pediatric Blood &amp; Cancer, 70(5).
-
-Neuroblastoma chemotherapy and related drugs: Neuroblastoma treatment. Neuroblastoma Chemotherapy and Related Drugs | Neuroblastoma Treatment | American Cancer Society. (n.d.). https://www.cancer.org/cancer/types/neuroblastoma/treating/chemotherapy.html#:~:text=The%20most%20common%20combination%20of,be%20given%20at%20higher%20doses. 
 
 Tolbert, V. P., & Matthay, K. K. (2018). Neuroblastoma: Clinical and biological approach to risk stratification and treatment. Cell and Tissue Research, 372(2), 195–209.
 
