@@ -99,11 +99,13 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 ## Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
-## Chemotherapy and Immunotherapy Agents in Neuroblastoma Progression Modeling
+## Chemotherapy and Immunotherapy Agents Used in Our Model for Neuroblastoma Progression
 
 ### Cyclophosphamide
+Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (INSERT CITATION).
 
 ### Interleukin-2 (IL-2)
+Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (INSERT CITATION).
 
 ## Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
 
