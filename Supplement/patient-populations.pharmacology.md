@@ -99,14 +99,18 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 ### Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
-#### Chemotherapy Dosing
 "Doctors give chemo in cycles. Treatment is given for a few days in a row, followed by time off to allow the body time to recover. The cycles are typically repeated every 3 or 4 weeks. The total length of treatment depends on which risk group the child is in – higher risk groups usually require longer treatment (ACS, 2025)."
 
-#### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma (NIH, 2025).
+#### Chemotherapeutic Drugs Used For The Treatment of Neuroblastoma in our Model (NIH, 2025).
 - Cyclophosphamide
-- Vincristine
-- Doxorubicin (Adriamycin)
-- Cisplatin 
+
+#### Drugs Used For The Treatment of Neuroblastoma in our Model (NIH, 2025).
+- Interleukin-2 (IL-2) (Immunostimulatory Cytokine)
+
+#### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+> "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
+
+>"Because stimulated NK cells proved to be very effective in our animal model in the absence of a memory immune response, multiple treatments with the ch14.18–IL-2 fusion protein may well be required to achieve optimal antitumor responses in neuroblastoma patients."
 
 #### Cisplatin (Chemotherapy - Platinum Based)
 Cisplatin is one of the most common first-line therapeutic agents used for the treatment of various cancer causing tumors (Donzelli et al., 2004).
@@ -119,6 +123,8 @@ Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W.,
 Jamieson, A. M., Isnard, P., Dorfman, J. R., Coles, M. C., & Raulet, D. H. (2004). Turnover and proliferation of NK cells in steady state and lymphopenic conditions. The Journal of Immunology, 172(2), 864–870.
 
 Jarrett, A. M., Lima, E. A. B. F., Hormuth, D. A., McKenna, M. T., Feng, X., Ekrut, D. A., Resende, A. C., Brock, A., & Yankeelov, T. E. (2018). Mathematical models of Tumor Cell Proliferation: A review of the literature. Expert Review of Anticancer Therapy, 18(12), 1271–1286. 
+
+Lode, H. N., Xiang, R., Dreier, T., Varki, N. M., Gillies, S. D., & Reisfeld, R. A. (1998). Natural killer cell–mediated eradication of neuroblastoma metastases to bone marrow by targeted interleukin-2 therapy. Blood, 91(5), 1706–1715. 
 
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
