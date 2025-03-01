@@ -105,7 +105,7 @@ A systematic pharmacological review of the literature spanning from 2011 to 2020
 
 ### Interleukin-2 (IL-2)
 
-### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+## Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
 
 > "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
 
