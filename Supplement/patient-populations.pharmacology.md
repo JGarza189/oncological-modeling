@@ -86,6 +86,21 @@ Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the i
 
 >"The availability of effective adjuvant treatment for neuroblastoma in the postchemotherapy and transplant phase remains as a major challenge in pediatric hematology/oncology. In this regard, the effectiveness of the ch14.18–IL-2 fusion protein is striking, especially in view of the effector mechanism involved. Thus, we could clearly show in vivo and in vitro that the ch14.18–IL-2 fusion protein stimulates a cellular antitumor response exclusively mediated by NK cells."
 
+#### Induced immunity by expression of interleukin-2 or GM-CSF gene in murine neuroblastoma cells can generate antitumor response to established tumors (Yoshida et al., 1999).
+
+>"The expression of cytokine gene(s) in tumor cells is one possible strategy to induce an antitumor response. Among the various cytokines tested previously for their ability to induce antitumor immunity, interleukin-2 (IL2)-mediated reactions have been investigated extensively,8–10 because IL-2 is required for the proliferation of cytotoxic T cells and for the activation of natural killer (NK) cells."
+
+#### Human Mesenchymal Stem Cells Overexpressing Interleukin 2 Can Suppress Proliferation of Neuroblastoma Cells in Co-Culture and Activate Mononuclear Cells In Vitro (Chulpanova et al., 2020).
+
+>"Interleukin 2 (IL2) is one of the first cytokines which, along with interferon α (IFN-α), was used for the treatment of cancer [1]. IL2 is mainly produced by CD4+ T-cells and plays a vital role in growth as well as differentiation of T-cells, B cells, natural killer (NK) cells, and many other cell types [2]. It is the ability of IL2 to stimulate the proliferation and activation of immune cells with antitumor activity that made it possible to achieve successes in IL2-based immunotherapy of cancer [3]. High-dose (HD) recombinant IL2 therapy has been shown to be effective and has been approved by the Food and Drug Administration (FDA) for the treatment of renal cell carcinoma and metastatic melanoma."
+
+>"The antitumor activity of MSCs expressing various ILs has also been demonstrated. For example, MSCs expressing IL12 increased NK cell infiltration into tumors formed in a mouse model of glioma [25], as well as decreasing metastasis and inducing cancer cell apoptosis in mice modelling ovarian cancer [26]."
+
+>"Changes in cytokine profiles were also determined as a result of IL2 over-expression. The release of CX3CL1, CXCL6, IL8, CCL13, CCL15 and CCL20 was significantly decreased (by 1.5 times) in hADSCs-IL2. These cytokines have been shown to modulate the anti-tumor immune response, the outcome of which can vary from protection against the cancer to promoting the growth of the malignancy. For example, CX3CL1 was shown to enhance the antitumor response by activating NK cells and T-cells [54]."
+
+>"In addition to NK cells, increased NKT-leukocyte populations expressing CD3/CD56 were found in PBMCs cultured in hADSCs-IL2 CM. NKT-cells are cytotoxic against tumors, where killing capacity is independent of the T-cell receptor activation [47]. Other studies have also reported that NKT-cell proliferation is IL2-dependent [108,109]. For example, breast cancer cells expressing IL2 were shown to cause the expansion of NKT-cells in vitro [108]. Furthermore, IL2-secreting fibroblasts were shown to increase the NKT-cell counts in patients with peripheral neuroectodermal tumor and, subsequently tumor cell death [109]. High numbers of CD3+CD56+ NKT cells correlate with the long-term survival of patients with lung and colorectal cancer [110]."
+
+
 ## Cell Biology Notes
 
 #### Turnover and proliferation of NK cells in steady state and lymphopenic conditions (Jamieson et al., 2004)
@@ -117,6 +132,8 @@ Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the i
 ## Literature Cited
 Barker, S. E., Grosse, S. M., Siapati, E. K., Kritz, A., Kinnon, C., Thrasher, A. J., & Hart, S. L. (2007). Immunotherapy for neuroblastoma using syngeneic fibroblasts transfected with il-2 and IL-12. British Journal of Cancer, 97(2), 210–217. 
 
+Chulpanova, D. S., Solovyeva, V. V., James, V., Arkhipova, S. S., Gomzikova, M. O., Garanina, E. E., Akhmetzyanova, E. R., Tazetdinova, L. G., Khaiboullina, S. F., & Rizvanov, A. A. (2020). Human mesenchymal stem cells overexpressing interleukin 2 can suppress proliferation of neuroblastoma cells in co-culture and activate mononuclear cells in vitro. Bioengineering, 7(2), 59.
+
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
 Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
@@ -135,6 +152,7 @@ Nader, J. H., Bourgeois, F., Bagatell, R., Moreno, L., Pearson, A. D., & DuBois,
 
 Tolbert, V. P., & Matthay, K. K. (2018). Neuroblastoma: Clinical and biological approach to risk stratification and treatment. Cell and Tissue Research, 372(2), 195–209.
 
+Yoshida, H., Tanabe, M., Miyauchi, M., Kawamura, K., Takenaga, K., Ohnuma, N., Sakiyama, S., & Tagawa, M. (1999). Induced immunity by expression of interleukin-2 or GM-CSF gene in murine neuroblastoma cells can generate antitumor response to established tumors. Cancer Gene Therapy, 6(5), 395–401. 
 
 
 
