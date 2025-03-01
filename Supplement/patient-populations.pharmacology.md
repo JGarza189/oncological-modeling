@@ -96,7 +96,7 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 > "For mathematical modeling to be of clinical relevance, the models developed must be of a form that can utilize clinically available data."  
 
 
-### Pharmacology
+## Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
 
 ## Chemotherapy and Immunotherapy Agents in Neuroblastoma Progression Modeling
