@@ -67,6 +67,25 @@ The intermediate-risk population has a higher tumor cell count than low-risk pat
 
 In the high-risk population, the tumor cell count is higher, and the immune system faces greater challenges. NK cells provide the first line of defense, but CTLs are essential for long-term tumor control, especially as they can target specific antigens and provide a more sustained immune response against the rapidly growing tumor cells.
 
+## Pharmacology
+A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
+
+## Chemotherapy and Immunotherapy Agents Used in Our Model for Neuroblastoma Progression
+
+## Cyclophosphamide
+Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (McCune et al., 2009).
+
+## Interleukin-2 (IL-2)
+Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (Barker et al., 2007).
+
+### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+
+> "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
+
+>"Because stimulated NK cells proved to be very effective in our animal model in the absence of a memory immune response, multiple treatments with the ch14.18–IL-2 fusion protein may well be required to achieve optimal antitumor responses in neuroblastoma patients."
+
+>"The availability of effective adjuvant treatment for neuroblastoma in the postchemotherapy and transplant phase remains as a major challenge in pediatric hematology/oncology. In this regard, the effectiveness of the ch14.18–IL-2 fusion protein is striking, especially in view of the effector mechanism involved. Thus, we could clearly show in vivo and in vitro that the ch14.18–IL-2 fusion protein stimulates a cellular antitumor response exclusively mediated by NK cells."
+
 ### Cell Biology Notes
 
 #### Turnover and proliferation of NK cells in steady state and lymphopenic conditions (Jamieson et al., 2004)
@@ -94,26 +113,6 @@ In the high-risk population, the tumor cell count is higher, and the immune syst
 > "ODE models that consider cancer proliferation and the immune response generally focus on T cell binding and chemical signaling between immune and tumor cells [86, 87, 88]. A current limitation of such models is that they require detailed and temporally refined data for calibration and validation, which are extraordinarily difficult to measure in an intact system with routinely available methods. Therefore, some efforts have attempted to reduce these systems into more tractable compartments designed to answer specific biological questions of tumor cell growth. For example, it can be shown, using a simplified system of ODEs focusing on the interactions of natural killer cells and cytotoxic T lymphocytes (CTLs), that the presence of an immune component is essential for suppressing tumor cell proliferation."  
 
 > "For mathematical modeling to be of clinical relevance, the models developed must be of a form that can utilize clinically available data."  
-
-
-## Pharmacology
-A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
-
-## Chemotherapy and Immunotherapy Agents Used in Our Model for Neuroblastoma Progression
-
-## Cyclophosphamide
-Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (McCune et al., 2009).
-
-## Interleukin-2 (IL-2)
-Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (Barker et al., 2007).
-
-### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
-
-> "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
-
->"Because stimulated NK cells proved to be very effective in our animal model in the absence of a memory immune response, multiple treatments with the ch14.18–IL-2 fusion protein may well be required to achieve optimal antitumor responses in neuroblastoma patients."
-
->"The availability of effective adjuvant treatment for neuroblastoma in the postchemotherapy and transplant phase remains as a major challenge in pediatric hematology/oncology. In this regard, the effectiveness of the ch14.18–IL-2 fusion protein is striking, especially in view of the effector mechanism involved. Thus, we could clearly show in vivo and in vitro that the ch14.18–IL-2 fusion protein stimulates a cellular antitumor response exclusively mediated by NK cells."
 
 ### Literature Cited
 Barker, S. E., Grosse, S. M., Siapati, E. K., Kritz, A., Kinnon, C., Thrasher, A. J., & Hart, S. L. (2007). Immunotherapy for neuroblastoma using syngeneic fibroblasts transfected with il-2 and IL-12. British Journal of Cancer, 97(2), 210–217. 
