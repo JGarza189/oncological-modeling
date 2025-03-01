@@ -101,13 +101,13 @@ A systematic pharmacological review of the literature spanning from 2011 to 2020
 
 ## Chemotherapy and Immunotherapy Agents Used in Our Model for Neuroblastoma Progression
 
-### Cyclophosphamide
+## Cyclophosphamide
 Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (INSERT CITATION).
 
-### Interleukin-2 (IL-2)
+## Interleukin-2 (IL-2)
 Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (INSERT CITATION).
 
-## Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
+### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
 
 > "In summary, we show here that NK cells stimulated by the ch14.18–IL-2 fusion protein can effectively suppress tumor dissemination and growth and effectively eradicate established bone marrow metastasis in a syngeneic model of neuroblastoma in A/J mice. The mechanism responsible for this antitumor effect proved to be exclusively dependent on NK cells. Taken together, our preclinical data described here suggest that the application of the ch14.18–IL-2 fusion protein in an adjuvant setting may lead to further improvement in the treatment of neuroblastoma patients with minimal residual disease"
 
