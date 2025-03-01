@@ -75,6 +75,16 @@ A systematic pharmacological review of the literature spanning from 2011 to 2020
 ### Cyclophosphamide
 Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (McCune et al., 2009).
 
+#### Association between CYP2B6 genetic variability and cyclophosphamide therapy in pediatric patients with neuroblastoma (Mango et al., 2023)
+
+>"Cyclophosphamide, an oxazaphosphorine prodrug is frequently used in treatment of neuroblastoma, which is one of the most prevalent solid organ malignancies in infants and young children."
+
+#### A Comparative Study of the Antiproliferative and Apoptotic Effects of Some Chemotherapeutic Drugs on Neuroblastoma Cells (Turgut, 2023).
+
+>" In the present study, the cytotoxic and apoptotic effects of five different drugs approved by the US Food and Drug Administration (FDA), which are used in various cancer treatments, on neuroblastoma cells were comparatively investigated. Cisplatin and cyclophosphamide were used as references because these drugs are the backbone of current clinical protocols for the treatment of neuroblastoma."
+
+>" In conclusion, in the present study, it was determined that some cancer drugs (cisplatin, cyclophosphamide, nivolumab, cetuximab, and gemcitabine) have antiproliferative and apoptotic effects on SH-SY5Y neuroblastoma cells."
+
 ### Interleukin-2 (IL-2)
 Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (Barker et al., 2007).
 
@@ -99,7 +109,6 @@ Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the i
 >"Changes in cytokine profiles were also determined as a result of IL2 over-expression. The release of CX3CL1, CXCL6, IL8, CCL13, CCL15 and CCL20 was significantly decreased (by 1.5 times) in hADSCs-IL2. These cytokines have been shown to modulate the anti-tumor immune response, the outcome of which can vary from protection against the cancer to promoting the growth of the malignancy. For example, CX3CL1 was shown to enhance the antitumor response by activating NK cells and T-cells [54]."
 
 >"In addition to NK cells, increased NKT-leukocyte populations expressing CD3/CD56 were found in PBMCs cultured in hADSCs-IL2 CM. NKT-cells are cytotoxic against tumors, where killing capacity is independent of the T-cell receptor activation [47]. Other studies have also reported that NKT-cell proliferation is IL2-dependent [108,109]. For example, breast cancer cells expressing IL2 were shown to cause the expansion of NKT-cells in vitro [108]. Furthermore, IL2-secreting fibroblasts were shown to increase the NKT-cell counts in patients with peripheral neuroectodermal tumor and, subsequently tumor cell death [109]. High numbers of CD3+CD56+ NKT cells correlate with the long-term survival of patients with lung and colorectal cancer [110]."
-
 
 ## Cell Biology Notes
 
@@ -132,6 +141,8 @@ Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the i
 ## Literature Cited
 Barker, S. E., Grosse, S. M., Siapati, E. K., Kritz, A., Kinnon, C., Thrasher, A. J., & Hart, S. L. (2007). Immunotherapy for neuroblastoma using syngeneic fibroblasts transfected with il-2 and IL-12. British Journal of Cancer, 97(2), 210–217. 
 
+ÇELİK TURGUT, G. (2023). A comparative study of the antiproliferative and apoptotic effects of some chemotherapeutic drugs on neuroblastoma cells. Bitlis Eren Üniversitesi Fen Bilimleri Dergisi, 12(3), 634–641.
+
 Chulpanova, D. S., Solovyeva, V. V., James, V., Arkhipova, S. S., Gomzikova, M. O., Garanina, E. E., Akhmetzyanova, E. R., Tazetdinova, L. G., Khaiboullina, S. F., & Rizvanov, A. A. (2020). Human mesenchymal stem cells overexpressing interleukin 2 can suppress proliferation of neuroblastoma cells in co-culture and activate mononuclear cells in vitro. Bioengineering, 7(2), 59.
 
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
@@ -143,6 +154,8 @@ Jamieson, A. M., Isnard, P., Dorfman, J. R., Coles, M. C., & Raulet, D. H. (2004
 Jarrett, A. M., Lima, E. A. B. F., Hormuth, D. A., McKenna, M. T., Feng, X., Ekrut, D. A., Resende, A. C., Brock, A., & Yankeelov, T. E. (2018). Mathematical models of Tumor Cell Proliferation: A review of the literature. Expert Review of Anticancer Therapy, 18(12), 1271–1286. 
 
 Lode, H. N., Xiang, R., Dreier, T., Varki, N. M., Gillies, S. D., & Reisfeld, R. A. (1998). Natural killer cell–mediated eradication of neuroblastoma metastases to bone marrow by targeted interleukin-2 therapy. Blood, 91(5), 1706–1715. 
+
+Mangó, K., Fekete, F., Kiss, Á. F., Erdős, R., Fekete, J. T., Bűdi, T., Bruckner, E., Garami, M., Micsik, T., & Monostory, K. (2023). Association between CYP2B6 genetic variability and cyclophosphamide therapy in pediatric patients with neuroblastoma. Scientific Reports, 13(1). 
 
 McCune, J. S., Salinger, D. H., Vicini, P., Oglesby, C., Blough, D. K., & Park, J. R. (2009). Population pharmacokinetics of cyclophosphamide and metabolites in children with neuroblastoma: A report from the Children’s Oncology Group. The Journal of Clinical Pharmacology, 49(1), 88–102. 
 
