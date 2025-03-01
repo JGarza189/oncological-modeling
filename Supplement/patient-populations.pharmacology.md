@@ -102,10 +102,10 @@ A systematic pharmacological review of the literature spanning from 2011 to 2020
 ## Chemotherapy and Immunotherapy Agents Used in Our Model for Neuroblastoma Progression
 
 ## Cyclophosphamide
-Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (INSERT CITATION).
+Cyclophosphamide is a widely used chemotherapy drug that works by interfering with DNA replication, leading to the destruction of rapidly dividing cells, including cancer cells. It is commonly used in the treatment of Neuroblastoma and other malignancies due to its potent cytotoxic effects. In addition to directly targeting tumor cells, Cyclophosphamide can modulate the immune system by depleting regulatory T cells, potentially enhancing the effectiveness of immunotherapy. However, its use is associated with dose-dependent side effects, including immunosuppression and toxicity to healthy tissues (McCune et al., 2009).
 
 ## Interleukin-2 (IL-2)
-Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (INSERT CITATION).
+Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the immune response by promoting the proliferation and activation of natural killer (NK) cells and cytotoxic T lymphocytes (CTLs). It is essential for immune system function and has been explored as an immunotherapy for various cancers, including Neuroblastoma. IL-2 enhances the body's ability to target and destroy tumor cells by stimulating immune cell growth and activity. Clinically, it has been used in high-dose regimens for metastatic cancers, though its application is often limited by toxicity and side effects (Barker et al., 2007).
 
 ### Natural Killer Cell–Mediated Eradication of Neuroblastoma Metastases to Bone Marrow by Targeted Interleukin-2 Therapy (Lode et al., 1998)
 
@@ -116,6 +116,8 @@ Interleukin-2 (IL-2) is a cytokine that plays a crucial role in regulating the i
 >"The availability of effective adjuvant treatment for neuroblastoma in the postchemotherapy and transplant phase remains as a major challenge in pediatric hematology/oncology. In this regard, the effectiveness of the ch14.18–IL-2 fusion protein is striking, especially in view of the effector mechanism involved. Thus, we could clearly show in vivo and in vitro that the ch14.18–IL-2 fusion protein stimulates a cellular antitumor response exclusively mediated by NK cells."
 
 ### Literature Cited
+Barker, S. E., Grosse, S. M., Siapati, E. K., Kritz, A., Kinnon, C., Thrasher, A. J., & Hart, S. L. (2007). Immunotherapy for neuroblastoma using syngeneic fibroblasts transfected with il-2 and IL-12. British Journal of Cancer, 97(2), 210–217. 
+
 Donzelli, E., Carfì, M., Miloso, M., Strada, A., Galbiati, S., Bayssas, M., Griffon-Etienne, G., Cavaletti, G., Grazia Petruccioli, M., & Tredici, G. (2004). Neurotoxicity of platinum compounds: Comparison of the effects of Cisplatin and oxaliplatin on the human neuroblastoma cell line SH-SY5Y. Journal of Neuro-Oncology, 67(1/2), 65–73. 
 
 Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
@@ -125,6 +127,8 @@ Jamieson, A. M., Isnard, P., Dorfman, J. R., Coles, M. C., & Raulet, D. H. (2004
 Jarrett, A. M., Lima, E. A. B. F., Hormuth, D. A., McKenna, M. T., Feng, X., Ekrut, D. A., Resende, A. C., Brock, A., & Yankeelov, T. E. (2018). Mathematical models of Tumor Cell Proliferation: A review of the literature. Expert Review of Anticancer Therapy, 18(12), 1271–1286. 
 
 Lode, H. N., Xiang, R., Dreier, T., Varki, N. M., Gillies, S. D., & Reisfeld, R. A. (1998). Natural killer cell–mediated eradication of neuroblastoma metastases to bone marrow by targeted interleukin-2 therapy. Blood, 91(5), 1706–1715. 
+
+McCune, J. S., Salinger, D. H., Vicini, P., Oglesby, C., Blough, D. K., & Park, J. R. (2009). Population pharmacokinetics of cyclophosphamide and metabolites in children with neuroblastoma: A report from the Children’s Oncology Group. The Journal of Clinical Pharmacology, 49(1), 88–102. 
 
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
