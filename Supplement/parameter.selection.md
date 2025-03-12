@@ -65,29 +65,6 @@ $$
 | **`D_0^*`** | Initial dose or concentration of either IL-2 or Cyclophosphamide. |
 
 
-
-
-1. **`p_1`**: Natural killer cell growth rate.
-   
-2. **`p_2`**: Natural killer cell death rate due to natural death.
-
-3. **`q`**: Carrying capacity coefficient for natural killer cell population.
-
-4. **`r`**: Rate constant of drug-mediated stimulation.
-
-5. **`s`**: Interaction term between CTLs and NK cells.
-
-6. **`u`**: Natural tumor cell growth rate 
-
-7. **`v`**: Carrying capacity coefficient for tumor cell population
-
-8. **`δ`**: Interaction term between CTLs and tumor cells.
-
-9. **`h`**: Half-life of the drug.
-
-10. **`D_0^*`**: Initial dose or concentration of either IL-2 or Cyclophosphamide).
-
-
 ### Parameter Derivation
 
 #### 1. **`p_1`**: Natural Killer Cell Growth Rate
