@@ -112,15 +112,15 @@ Assuming the rate of death is 14 days
 
 #### Cyclophosphamide Dosing:
 
-- **L**: 2 mg/kg × 81 kg = 162 mg
-- **I**: 27.5 mg/kg × 81 kg = 2,227.5 mg
-- **H**: 120 mg/kg × 81 kg = 9,720 mg
+- **Low**: 2 mg/kg × 81 kg = 162 mg
+- **Intermediate**: 27.5 mg/kg × 81 kg = 2,227.5 mg
+- **High**: 120 mg/kg × 81 kg = 9,720 mg
 
 #### Cyclophosphamide and cancer: golden anniversary (Emadi et al., 2009)
-> "The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows:"
-> "- **Low dose**: 1–3 mg/kg (40–120 mg/m²), usually administered orally daily.  "
-> "- **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks."
-> "- **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation."
+> "The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows:
+> - **Low dose**: 1–3 mg/kg (40–120 mg/m²), usually administered orally daily.  
+> - **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks.
+> - **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation.
 
 Assuming an 81 kg individual
 
