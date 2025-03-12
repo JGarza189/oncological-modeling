@@ -79,9 +79,8 @@ $$
 p_2 = \frac{1}{14} = 0.07143
 $$
 
-#### Advances in NK cell production
-> "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo (Fang et al., 2022)..
-
+#### Advances in NK cell production (Fang et al., 2022)
+> "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo"
 
 ### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
 
@@ -108,6 +107,9 @@ $$
 
 
 ## Literature Cited
+
+Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
+
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
 
 Tolbert, V. P., & Matthay, K. K. (2018). Neuroblastoma: Clinical and biological approach to risk stratification and treatment. Cell and Tissue Research, 372(2), 195–209.
