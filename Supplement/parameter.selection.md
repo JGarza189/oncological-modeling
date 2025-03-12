@@ -73,7 +73,7 @@ $$
 
 This parameter represents the rate at which natural killer (NK) cells proliferate in response to tumor presence and immune stimulation.
 
----
+-----
 
 #### 2. **`p_2`**: Natural Killer Cell Death Rate
 
