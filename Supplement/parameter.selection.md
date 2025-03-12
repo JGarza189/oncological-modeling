@@ -70,6 +70,10 @@ $$
 
 10. **`D_0^*`**: Initial dose or concentration of either IL-2 or Cyclophosphamide).
 
+---
+
+### **`p_1`**: Natural killer cell growth rate.
+
 ## Pharmacological Parameters
 
 
