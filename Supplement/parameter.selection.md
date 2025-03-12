@@ -68,34 +68,43 @@ $$
 ### Parameter Derivation
 
 
-#### 1. **`p_1`**: Natural Killer Cell Growth Rate
+### 1. **`p_1`**: Natural Killer Cell Growth Rate
 
 
-#### 2. **`p_2`**: Natural Killer Cell Death Rate
+### 2. **`p_2`**: Natural Killer Cell Death Rate
+
+The natural killer cell death rate is given by:
+
+$$
+p_2 = \frac{1}{14} = 0.07143
+$$
+
+####Advances in NK cell production
+> "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo (Fang et al., 2022)..
 
 
-#### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
+### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
 
 
-#### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
+### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
 
 
-#### 5. **`s`**: Interaction Term Between CTLs and NK Cells
+### 5. **`s`**: Interaction Term Between CTLs and NK Cells
 
 
-#### 6. **`u`**: Natural Tumor Cell Growth Rate
+### 6. **`u`**: Natural Tumor Cell Growth Rate
 
 
-#### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
+### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
 
 
-#### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
+### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
 
 
-#### 9. **`h`**: Half-Life of the Drug
+### 9. **`h`**: Half-Life of the Drug
 
 
-#### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
+### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
 
 
 ## Literature Cited
