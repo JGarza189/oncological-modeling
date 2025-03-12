@@ -73,61 +73,61 @@ $$
 
 ### Parameter Derivation
 
-### 1. **`p_1`**: Natural Killer Cell Growth Rate
+#### 1. **`p_1`**: Natural Killer Cell Growth Rate
 
 This parameter represents the rate at which natural killer (NK) cells proliferate in response to tumor presence and immune stimulation.
 
 ---
 
-### 2. **`p_2`**: Natural Killer Cell Death Rate
+#### 2. **`p_2`**: Natural Killer Cell Death Rate
 
 This parameter reflects the natural death rate of NK cells, including factors such as apoptosis and immune regulation.
 
 ---
 
-### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
+#### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
 
 This coefficient represents the environmental limitation on NK cell growth, reflecting how the population reaches a maximum under given conditions.
 
 ---
 
-### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
+#### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
 
 This parameter quantifies the effectiveness of drug-induced NK cell activation, capturing how IL-2 or Cyclophosphamide enhances NK cell activity.
 
 ---
 
-### 5. **`s`**: Interaction Term Between CTLs and NK Cells
+#### 5. **`s`**: Interaction Term Between CTLs and NK Cells
 
 This parameter quantifies the degree of cooperation or competition between CTLs and NK cells in eliminating tumor cells.
 
 ---
 
-### 6. **`u`**: Natural Tumor Cell Growth Rate
+#### 6. **`u`**: Natural Tumor Cell Growth Rate
 
 This parameter represents the natural rate of tumor cell proliferation in the absence of immune response or treatment.
 
 ---
 
-### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
+#### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
 
 This coefficient describes the environmental limits on tumor growth, accounting for factors such as space, resources, and immune responses.
 
 ---
 
-### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
+#### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
 
 This parameter reflects the efficacy of CTLs in targeting and killing tumor cells during immune surveillance.
 
 ---
 
-### 9. **`h`**: Half-Life of the Drug
+#### 9. **`h`**: Half-Life of the Drug
 
 The half-life of the drug represents the time it takes for half of the administered dose of IL-2 or Cyclophosphamide to degrade or be eliminated from the system.
 
 ---
 
-### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
+#### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
 
 This parameter represents the starting dose or concentration of the therapeutic agent administered to the patient.
 
