@@ -9,14 +9,12 @@ The interactions between tumor progression, drug concentration, and patient popu
 Our approach to modeling the immunotherapeutic dynamics of neuroblastoma is built upon the International Neuroblastoma Risk Group Staging System (INRGSS). The use of the INRGSS and its corresponding risk classification (INRG) has greatly enhanced the ability to compare risk-based clinical trials conducted across different regions of the world (Monclair et al., 2009). In this study, we utilize this system to differentiate patient populations, capitalizing on its effectiveness in enabling the comparison of clinical trials conducted globally.
 
 $$
-\left\{
-\begin{aligned}
-N'(t) &= p_1 N(t) (1 - q N(t)) - p_2 N(t) - N(t) T(t), \\
-L'(t) &= N(t) T(t) + r D(t) - L(t) - s L(t) T(t), \\
-T'(t) &= u T(t) (1 - v T(t)) - N(t) T(t) - \delta L(t) T(t), \\
-D'(t) &= -\frac{\log(2)}{h} 2^{-\frac{t}{h}} D_0^*
-\end{aligned}
-\right.
+\begin{array}{l}
+N'(t) = p_1 N(t) (1 - q N(t)) - p_2 N(t) - N(t) T(t), \\
+L'(t) = N(t) T(t) + r D(t) - L(t) - s L(t) T(t), \\
+T'(t) = u T(t) (1 - v T(t)) - N(t) T(t) - \delta L(t) T(t), \\
+D'(t) = -\frac{\log(2)}{h} 2^{-\frac{t}{h}} D_0^*
+\end{array}
 $$
 
 
