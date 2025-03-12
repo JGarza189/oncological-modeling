@@ -133,7 +133,7 @@ h = 5 minutes
 > - **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks.  
 > - **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation.
 
-> *Assuming an 81 kg individual*
+Assuming an 81 kg individual*
 
 ---
 
@@ -145,7 +145,7 @@ h = 5 minutes
 
 > "Rats from each group received just one injection of 1.5 mg/kg SHR-1916 intravenously (via tail vein) or 1.5 mg/kg, 3 mg/kg, and 6 mg/kg of SHR-1916 subcutaneously (in the dorsal neck region)."
 
-> *Assuming an 81 kg rat*
+Assuming an 81 kg rat*
 
 ### 11. **`x`**: Possible parameter including natural rate of death for CTL cells
 
