@@ -41,9 +41,9 @@ The low-risk population is characterized by a relatively low tumor cell count an
 In this section, we outline the key parameters that need to be defined based on existing literature to accurately model the immune-cellular dynamics of neuroblastoma progression. These parameters are crucial for setting up the system of ordinary differential equations and understanding the interactions between tumor cells, natural killer cells (NK), cytotoxic T lymphocytes (CTLs), and the impact of therapeutic agents such as IL-2 and Cyclophosphamide.
 
 #### Parameters to Define:
-1. **`p_1`**: Tumor cell growth rate (rate at which the tumor cells naturally proliferate in the absence of immune response and treatment).
-   
-2. **`p_2`**: Tumor cell death rate due to immune response or chemotherapy.
+1. **`p<sub>1</sub>`**: Tumor cell growth rate (rate at which the tumor cells naturally proliferate in the absence of immune response and treatment).
+
+2. **`p<sub>2</sub>`**: Tumor cell death rate due to immune response or chemotherapy.
 
 3. **`q`**: Carrying capacity coefficient for the tumor cell population, representing the environmental limitation on tumor growth (how much tumor cell population can grow before the environment cannot support further growth).
 
@@ -59,7 +59,8 @@ In this section, we outline the key parameters that need to be defined based on 
 
 9. **`h`**: Half-life of the drug or the time constant for drug decay, indicating how long IL-2 or Cyclophosphamide persists in the body and affects tumor progression.
 
-10. **`D_0^*`**: Initial dose or concentration of the drug (IL-2 or Cyclophosphamide). This would represent the starting dose used in the model for treatment.
+10. **`D<sub>0</sub><sup>*</sup>`**: Initial dose or concentration of the drug (IL-2 or Cyclophosphamide). This would represent the starting dose used in the model for treatment.
+
 
 
 ## Pharmacological Parameters
