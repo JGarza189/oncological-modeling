@@ -50,9 +50,9 @@ The intermediate-risk population has a higher tumor cell count than low-risk pat
 
 | **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**                           | **Source** |
 |---------------|----------|--------------|-----------------------|---------------|-------------------------------------------|------------|
-| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of tumor cells             | source     |
-| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of CTLs                    | source     |
-| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of NK cells                | source     |
+| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of NK cells             | source     |
+| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of tumor cells                    | source     |
+| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of CTL cells                | source     |
 | **D₀**        | cells    | TBD          | TBD                   | TBD           | Dose of a specific drug                   | source     |
 
 
