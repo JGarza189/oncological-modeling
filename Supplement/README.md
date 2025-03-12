@@ -1,9 +1,9 @@
 # Supplement
 
 ## cell.biology.notes.md
-This document outlines the notes taken throughout research process.
+This document outlines the notes taken throughout research.
 
-## paramter.selection.md
+## parameter.selection.md
 This document outlines the parameters used in our system of ordinary differential equations (ODEs) for modeling the interactions between cell populations $N$ (Natural Killer Cells), $L$ (CTL Cells), $T$ (Tumor Cells), whilst incorporating a drug interaction term $D$ (Drug Concentration). The model incorporates various tumor stages and treatment strategies, which are critical for defining initial conditions and simulating the progression of Neuroblastoma over time.
 
 Provided are the following components:
