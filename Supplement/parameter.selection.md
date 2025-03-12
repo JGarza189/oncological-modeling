@@ -104,8 +104,21 @@ Assuming the rate of death is 14 days
 
 ### 9. **`h`**: Half-Life of the Drug
 
+#### Cyclophosphamide:
+
+#### IL-2:
 
 ### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
+
+### Cyclophosphamide:
+
+#### Cyclophosphamide and cancer: golden anniversary (Emadi et al., 2009)
+>"The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this Review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows: ‘low’ dose: 1–3 mg/kg (40–120 mg/m2)
+usually administered orally daily; ‘intermediate’ or ‘pulse’ dose: 15–40 mg/kg (600–1,500 mg/m2) usually
+administered intra venously every 3–4 weeks; and ‘high’ dose: >120 mg/kg (>5,000 mg/m2) most commonly
+administered over 2–4 days as conditioning for BMT. low to inter mediate dosages tend to have fewer acute toxic effects; however, prolonged usage (>6 months) may result in substantial chronic toxicity. Conversely, high ­dose cyclophosphamide is associated with more acute toxic effects, but seems to mitigate the risk for chronic toxic effects.
+
+#### IL-2:
 
 ### Possible parameter including natural rate of death for CTL cells
 
@@ -121,6 +134,8 @@ Assuming the rate of death is 28 days.
 > "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo, both of which are still lower than the lifespan of effector CD8+ T cells and memory CD8+ T cells in vivo (approximately 2–3 weeks to months)."
 
 ## Literature Cited
+
+Emadi, A., Jones, R. J., & Brodsky, R. A. (2009). Cyclophosphamide and cancer: Golden Anniversary. Nature Reviews Clinical Oncology, 6(11), 638–647. 
 
 Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
 
