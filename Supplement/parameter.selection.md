@@ -1,11 +1,12 @@
-# Parameter Selection
+## Parameter Selection
 
 This document outlines the parameters used in our system of ordinary differential equations (ODEs) for modeling the interactions between cell populations $N$ (Natural Killer Cells), $L$ (CTL Cells), $T$ (Tumor Cells), whilst incorporating a drug interaction term $D$ (Drug Concentration). The model incorporates various tumor stages and treatment strategies, which are critical for defining initial conditions and simulating the progression of Neuroblastoma over time.
 
-## Initial Conditions
-
 The interactions between tumor progression, drug concentration, and patient population drive the proposed initial conditions, which are tailored according to the patient's disease stage and patient profile. This modeling approach optimizes treatment plans by simulating various scenarios and predicting treatment efficacy for individual patient populations.
 
+### Patient Populations
+
+Our approach to modeling the immunotherapeutic dynamics of neuroblastoma is built upon the International Neuroblastoma Risk Group Staging System (INRGSS). The use of the INRGSS and its corresponding risk classification (INRG) has greatly enhanced the ability to compare risk-based clinical trials conducted across different regions of the world (Monclair et al., 2009). In this study, we utilize this system to differentiate patient populations, capitalizing on its effectiveness in enabling the comparison of clinical trials conducted globally.
 
 | **Risk Category** | **Description**                                                                                                                                                                    | **Source**                |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -14,16 +15,6 @@ The interactions between tumor progression, drug concentration, and patient popu
 | **High Risk**     | **M** (distant metastases), **MS** with MYCN amplification, or **L2** in patients over 18 months with unfavorable features are high risk. These patients require aggressive treatment including chemotherapy, surgery, and stem cell therapy. | Tolbert & Matthay, 2018   |
 
 To establish the initial conditions for our mathematical model, we differentiated three distinct patient populations—low-risk, medium-risk, and high-risk—based on tumor stage and biological factors. We then derived the relative abundance of tumor cells, CTLs, and NK cells for each patient population from the literature, ensuring that the initial conditions capture the clinical variability in immune cell populations and tumor response across the different risk groups, with a particular emphasis on relative ratios. 
-
-### Parameters for Different Patient Populations
-
-| **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**                           | **Source** |
-|---------------|----------|--------------|-----------------------|---------------|-------------------------------------------|------------|
-| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of tumor cells             | source     |
-| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of CTLs                    | source     |
-| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of NK cells                | source     |
-| **D₀**        | cells    | TBD          | TBD                   | TBD           | Dose of a specific drug                   | source     |
-
 
 ### Parameters for the **Low Risk** patient population
 | **Parameter** | **Unit**          | **Description**          | **Value** | **Source**   |
