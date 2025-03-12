@@ -79,7 +79,7 @@ $$
 p_2 = \frac{1}{14} = 0.07143
 $$
 
-Assuming the rate of death is 14 days*
+Assuming the average rate of death is 14 days*
 
 #### Advances in NK cell production (Fang et al., 2022)
 > "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo, both of which are still lower than the lifespan of effector CD8+ T cells and memory CD8+ T cells in vivo (approximately 2–3 weeks to months)."
@@ -134,7 +134,7 @@ $$
 [] = \frac{1}{28} = 0.03571
 $$
 
-Assuming the rate of death is 28 days*
+Assuming the average rate of death is 28 days*
 
 #### Advances in NK cell production (Fang et al., 2022)
 > "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo, both of which are still lower than the lifespan of effector CD8+ T cells and memory CD8+ T cells in vivo (approximately 2–3 weeks to months)."
