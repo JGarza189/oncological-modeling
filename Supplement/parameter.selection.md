@@ -113,7 +113,7 @@ h = 5 minutes
 #### Engineered cytokine-antibody fusion proteins for targeted stimulation of anti-cancer immunity (Spangler, 2025)
 > "IL-2 has shown tremendous potential as an anti-cancer therapeutic and elicits complete and durable responses in 5-10 percent of treated patients. However, clinical use of IL-2 has been limited by severe toxicities, counterproductive activation of regulatory T cells (Tregs), and the cytokine’s vanishingly short serum half-life (<5 min)."
 
-#### A Novel PEGylated Interleukin-2 Analogue with Altered Cellular Selectivity and Improved Pharmacokinetic Profiles for Cancer Immunotherapy (Kong et al., 2025)
+#### AHR-1916: A Novel PEGylated Interleukin-2 Analogue with Altered Cellular Selectivity and Improved Pharmacokinetic Profiles for Cancer Immunotherapy (Kong et al., 2025)
 >"IL-2’s short half-life is another limitation, resulting from its relatively small molecular weight and rapid excretion through the kidneys. When administered intravenously, IL-2 undergoes rapid elimination, exhibiting a 6–12 minute initial elimination half-life and a 40–80 minute terminal elimination half-life.Citation10 Therefore, it must be administered frequently, significantly affecting overall treatment adherence among patients and limiting its clinical use."
 
 
@@ -134,6 +134,13 @@ h = 5 minutes
 Assuming an 81 kg individual*
 
 ### IL-2:
+
+Initial Dose: 1.5mg/kg*81kg=121.5 mg
+
+#### AHR-1916: A Novel PEGylated Interleukin-2 Analogue with Altered Cellular Selectivity and Improved Pharmacokinetic Profiles for Cancer Immunotherapy (Kong et al., 2025)
+>"Rats from each group received just one injection of 1.5 mg/kg SHR-1916 intravenously (via tail vein) or 1.5 mg/kg, 3 mg/kg, and 6 mg/kg of SHR-1916 subcutaneously (in the dorsal neck region)."
+
+Assuming a 81kg rat*
 
 ### 11. **`x`**: Possible parameter including natural rate of death for CTL cells
 
