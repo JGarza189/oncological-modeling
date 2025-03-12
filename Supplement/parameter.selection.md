@@ -70,6 +70,7 @@ $$
 
 ### 1. **`p_1`**: Natural Killer Cell Growth Rate
 
+TBD
 
 ### 2. **`p_2`**: Natural Killer Cell Death Rate
 
@@ -86,21 +87,27 @@ Assuming the average rate of death is 14 days*
 
 ### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
 
+TBD
 
 ### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
 
+TBD
 
 ### 5. **`s`**: Interaction Term Between CTLs and NK Cells
 
+TBD
 
 ### 6. **`u`**: Natural Tumor Cell Growth Rate
 
+TBD
 
 ### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
 
+TBD
 
 ### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
 
+TBD
 
 ### 9. **`h`**: Half-Life of the Drug
 
