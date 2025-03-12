@@ -16,17 +16,16 @@ Our approach to modeling the immunotherapeutic dynamics of neuroblastoma is buil
 
 To establish the initial conditions for our mathematical model, we differentiated three distinct patient populations—low-risk, medium-risk, and high-risk—based on tumor stage and biological factors. We then derived the relative abundance of tumor cells, CTLs, and NK cells for each patient population from the literature, ensuring that the initial conditions capture the clinical variability in immune cell populations and tumor response across the different risk groups, with a particular emphasis on relative ratios. 
 
-### Parameters for Different Patient Populations
+### Initial Conditions for Various Patient Populations
 
-| **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**                           | **Source** |
+| **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**| **Source** |
 |---------------|----------|--------------|-----------------------|---------------|-------------------------------------------|------------|
-| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of NK cells             | source     |
-| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of tumor cells                    | source     |
-| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of CTL cells                | source     |
-| **D₀**        | cells    | TBD          | TBD                   | TBD           | Dose of a specific drug                   | source     |
+| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of NK cells                | source     |
+| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of tumor cells             | source     |
+| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of CTL cells              | source     |
+| **D₀**        | cells    | TBD          | TBD                   | TBD           | Dose of a specific drug            | source     |
 
-
-In the high-risk population, the tumor cell count is higher, and the immune system faces greater challenges. NK cells provide the first line of defense, but CTLs are essential for long-term tumor control, especially as they can target specific antigens and provide a more sustained immune response against the rapidly growing tumor cells.
+The low-risk population is characterized by a relatively low tumor cell count and a robust immune response, where natural killer (NK) cells, part of the innate immune system, offer immediate defense. While cytotoxic T lymphocytes (CTLs), which belong to the adaptive immune response, provide a more targeted and long-term defense, their abundance is lower compared to NK cells. In the intermediate-risk population, the tumor cell count is higher, prompting a more significant role for CTLs in the immune response. Though NK cells still serve as the first line of defense, the increased tumor burden necessitates a more coordinated immune response, with CTLs becoming increasingly critical for targeting and eliminating the growing tumor cells. In the high-risk population, the tumor cell count is further elevated, and the immune system faces greater challenges. While NK cells continue to provide initial defense, CTLs are essential for long-term tumor control, as their ability to recognize specific antigens enables a more sustained immune response against the rapidly proliferating tumor cells.
 
 ## Pharmacology
 A systematic pharmacological review of the literature spanning from 2011 to 2020 identified the three most common types of immunotherapeutic approaches for neuroblastoma treatment: chemotherapy, and monoclonal and non-antibody based immunotherapies (Nader et al., 2022). This analysis was conducted across 192 clinical trials involving pediatric patients only under 18 years of age, spanning from patient populations in the low-risk to high-risk groups. The trials, sourced from Nader's work, utilized publicly available registries in the United States and the European Union, including platforms such as ClinicalTrials.gov, Clinicaltrialregister.eu, PubMed, and the American Society of Clinical Oncology annual meeting collection. The evaluation provided a comprehensive overview of neuroblastoma therapeutic trials, offering valuable insights into evolving treatment trends and therapeutic approaches from 2011 to 2020.
