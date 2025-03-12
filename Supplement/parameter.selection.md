@@ -79,7 +79,7 @@ $$
 p_2 = \frac{1}{14} = 0.07143
 $$
 
-####Advances in NK cell production
+#### Advances in NK cell production
 > "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo (Fang et al., 2022)..
 
 
