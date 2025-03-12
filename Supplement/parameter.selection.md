@@ -44,6 +44,18 @@ The intermediate-risk population has a higher tumor cell count than low-risk pat
 | **T₀**        | cells               | Initial amount of cells          | 100     | source         |
 | **D₀**        | cells               | dose of a specific drug       | TBD       | source         |
 
+
+
+### Parameters for Different Patient Populations
+
+| **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**                           | **Source** |
+|---------------|----------|--------------|-----------------------|---------------|-------------------------------------------|------------|
+| **N₀**        | cells    | 10           | 10                    | 7             | Initial amount of tumor cells             | source     |
+| **L₀**        | cells    | 1            | 5                     | 10            | Initial amount of CTLs                    | source     |
+| **T₀**        | cells    | 1            | 10                    | 100           | Initial amount of NK cells                | source     |
+| **D₀**        | cells    | TBD          | TBD                   | TBD           | Dose of a specific drug                   | source     |
+
+
 In the high-risk population, the tumor cell count is higher, and the immune system faces greater challenges. NK cells provide the first line of defense, but CTLs are essential for long-term tumor control, especially as they can target specific antigens and provide a more sustained immune response against the rapidly growing tumor cells.
 
 ## Pharmacology
