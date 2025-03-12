@@ -50,26 +50,25 @@ D'(t) = -\frac{\log(2)}{h} 2^{-\frac{t}{h}} D_0^*
 $$
 
 #### Parameters to Define:
-1. **`p_1`**: Tumor cell growth rate (rate at which the tumor cells naturally proliferate in the absence of immune response and treatment).
+1. **`p_1`**: Natural killer cell growth rate.
    
-2. **`p_2`**: Tumor cell death rate due to immune response or chemotherapy.
+2. **`p_2`**: Natural killer cell death rate due to natural death.
 
-3. **`q`**: Carrying capacity coefficient for the tumor cell population, representing the environmental limitation on tumor growth (how much tumor cell population can grow before the environment cannot support further growth).
+3. **`q`**: Carrying capacity coefficient for natural killer cell population.
 
-4. **`r`**: Rate constant for immune activation or drug-mediated tumor reduction. This could reflect the rate at which NK cells or CTLs are activated or the rate of tumor cell killing induced by IL-2 or Cyclophosphamide.
+4. **`r`**: Rate constant of drug-mediated stimulation.
 
-5. **`s`**: Interaction rate between immune cells (CTLs or NK cells) and tumor cells. This controls how effectively immune cells target and eliminate tumor cells.
+5. **`s`**: Interaction term between CTLs and NK cells.
 
-6. **`u`**: Tumor cell growth rate in the absence of immune response (for example, how fast the tumor grows when immune cells are not present or suppressed).
+6. **`u`**: Natural tumor cell growth rate 
 
-7. **`v`**: Carrying capacity coefficient for tumor growth, similar to `q`, but this could reflect the effect of treatment or immune suppression, limiting the tumor's growth.
+7. **`v`**: Carrying capacity coefficient for tumor cell population
 
-8. **`δ`**: Rate constant for CTL (L) interaction with tumor cells (T). This could quantify how effective the CTLs are in killing tumor cells over time.
+8. **`δ`**: Interaction term between CTLs and tumor cells.
 
-9. **`h`**: Half-life of the drug or the time constant for drug decay, indicating how long IL-2 or Cyclophosphamide persists in the body and affects tumor progression.
+9. **`h`**: Half-life of the drug.
 
-10. **`D_0^*`**: Initial dose or concentration of the drug (IL-2 or Cyclophosphamide). This would represent the starting dose used in the model for treatment.
-
+10. **`D_0^*`**: Initial dose or concentration of either IL-2 or Cyclophosphamide).
 
 ## Pharmacological Parameters
 
