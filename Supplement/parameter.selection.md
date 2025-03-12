@@ -108,6 +108,15 @@ Assuming the average rate of death is 14 days*
 
 #### IL-2:
 
+h = 5 minutes
+
+#### Engineered cytokine-antibody fusion proteins for targeted stimulation of anti-cancer immunity (Spangler, 2025)
+> "IL-2 has shown tremendous potential as an anti-cancer therapeutic and elicits complete and durable responses in 5-10 percent of treated patients. However, clinical use of IL-2 has been limited by severe toxicities, counterproductive activation of regulatory T cells (Tregs), and the cytokine’s vanishingly short serum half-life (<5 min)."
+
+#### A Novel PEGylated Interleukin-2 Analogue with Altered Cellular Selectivity and Improved Pharmacokinetic Profiles for Cancer Immunotherapy (Kong et al., 2025)
+>"IL-2’s short half-life is another limitation, resulting from its relatively small molecular weight and rapid excretion through the kidneys. When administered intravenously, IL-2 undergoes rapid elimination, exhibiting a 6–12 minute initial elimination half-life and a 40–80 minute terminal elimination half-life.Citation10 Therefore, it must be administered frequently, significantly affecting overall treatment adherence among patients and limiting its clinical use."
+
+
 ### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
 
 ### Cyclophosphamide:
@@ -145,7 +154,11 @@ Emadi, A., Jones, R. J., & Brodsky, R. A. (2009). Cyclophosphamide and cancer: G
 
 Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W., & Tian, Z. (2022). Advances in NK cell production. Cellular &amp; Molecular Immunology, 19(4), 460–481. 
 
+Kong, X., Lin, Y., Ouyang, C., Chen, H., & Gao, X. (2025). SHR-1916: A novel pegylated interleukin-2 analogue with altered cellular selectivity and improved pharmacokinetic profiles for cancer immunotherapy. Drug Design, Development and Therapy, Volume 19, 1251–1270. 
+
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
+
+Spangler, J. B. (2025). Abstract IA07: Engineered cytokine-antibody fusion proteins for targeted stimulation of anti-cancer immunity. Cancer Immunology Research, 13(2_Supplement).
 
 Tolbert, V. P., & Matthay, K. K. (2018). Neuroblastoma: Clinical and biological approach to risk stratification and treatment. Cell and Tissue Research, 372(2), 195–209.
 
