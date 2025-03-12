@@ -110,17 +110,23 @@ Assuming the rate of death is 14 days
 
 ### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
 
-### Cyclophosphamide:
+#### Cyclophosphamide Dosing:
+
+- **L**: 2 mg/kg × 81 kg = 162 mg
+- **I**: 27.5 mg/kg × 81 kg = 2,227.5 mg
+- **H**: 120 mg/kg × 81 kg = 9,720 mg
 
 #### Cyclophosphamide and cancer: golden anniversary (Emadi et al., 2009)
->"The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this Review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows: ‘low’ dose: 1–3 mg/kg (40–120 mg/m2)
-usually administered orally daily; ‘intermediate’ or ‘pulse’ dose: 15–40 mg/kg (600–1,500 mg/m2) usually
-administered intra venously every 3–4 weeks; and ‘high’ dose: >120 mg/kg (>5,000 mg/m2) most commonly
-administered over 2–4 days as conditioning for BMT. low to inter mediate dosages tend to have fewer acute toxic effects; however, prolonged usage (>6 months) may result in substantial chronic toxicity. Conversely, high ­dose cyclophosphamide is associated with more acute toxic effects, but seems to mitigate the risk for chronic toxic effects.
+> "The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows:"
+> "- **Low dose**: 1–3 mg/kg (40–120 mg/m²), usually administered orally daily.  "
+> "- **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks."
+> "- **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation."
+
+Assuming an 81 kg individual
 
 ### IL-2:
 
-### 11. **`x`**:Possible parameter including natural rate of death for CTL cells
+### 11. **`x`**: Possible parameter including natural rate of death for CTL cells
 
 The natural killer cell death rate is given by:
 
