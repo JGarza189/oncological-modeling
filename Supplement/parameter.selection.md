@@ -65,7 +65,9 @@ $$
 | **`D_0^*`** | Initial dose or concentration of either IL-2 or Cyclophosphamide. |
 
 
+
 ### Parameter Derivation
+
 
 #### 1. **`p_1`**: Natural Killer Cell Growth Rate
 
