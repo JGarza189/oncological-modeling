@@ -122,7 +122,7 @@ Assuming the rate of death is 14 days
 > - **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks.
 > - **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation.
 
-Assuming an 81 kg individual
+Assuming an 81 kg individual*
 
 ### IL-2:
 
