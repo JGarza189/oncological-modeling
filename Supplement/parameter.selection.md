@@ -118,9 +118,9 @@ usually administered orally daily; ‘intermediate’ or ‘pulse’ dose: 15–
 administered intra venously every 3–4 weeks; and ‘high’ dose: >120 mg/kg (>5,000 mg/m2) most commonly
 administered over 2–4 days as conditioning for BMT. low to inter mediate dosages tend to have fewer acute toxic effects; however, prolonged usage (>6 months) may result in substantial chronic toxicity. Conversely, high ­dose cyclophosphamide is associated with more acute toxic effects, but seems to mitigate the risk for chronic toxic effects.
 
-#### IL-2:
+### IL-2:
 
-### Possible parameter including natural rate of death for CTL cells
+### 11. **`x`**:Possible parameter including natural rate of death for CTL cells
 
 The natural killer cell death rate is given by:
 
