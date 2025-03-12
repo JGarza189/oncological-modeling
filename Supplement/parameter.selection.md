@@ -119,28 +119,33 @@ h = 5 minutes
 
 ### 10. **`D_0^*`**: Initial Dose or Concentration of IL-2 or Cyclophosphamide
 
-### Cyclophosphamide:
+#### Cyclophosphamide Dosing:
 
 - **Low**: 2 mg/kg × 81 kg = 162 mg
 - **Intermediate**: 27.5 mg/kg × 81 kg = 2,227.5 mg
 - **High**: 120 mg/kg × 81 kg = 9,720 mg
 
-#### Cyclophosphamide and cancer: golden anniversary (Emadi et al., 2009)
-> "The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows"
+#### Cyclophosphamide and Cancer: Golden Anniversary (Emadi et al., 2009)
+
+> "The dosage, and hence toxicity profile, of cyclophosphamide varies widely depending on the clinical indication. For the purpose of this review, we somewhat arbitrarily define the dosages of cyclophosphamide as follows:"
+>
 > - **Low dose**: 1–3 mg/kg (40–120 mg/m²), usually administered orally daily.  
-> - **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks.
+> - **Intermediate** or **pulse dose**: 15–40 mg/kg (600–1,500 mg/m²), usually administered intravenously every 3–4 weeks.  
 > - **High dose**: >120 mg/kg (>5,000 mg/m²), most commonly administered over 2–4 days as conditioning for bone marrow transplantation.
 
-Assuming an 81 kg individual*
+> *Assuming an 81 kg individual*
 
-### IL-2:
+---
 
-Initial Dose: 1.5mg/kg*81kg=121.5 mg
+#### IL-2 Dosing:
+
+- **Initial Dose**: 1.5 mg/kg × 81 kg = 121.5 mg
 
 #### AHR-1916: A Novel PEGylated Interleukin-2 Analogue with Altered Cellular Selectivity and Improved Pharmacokinetic Profiles for Cancer Immunotherapy (Kong et al., 2025)
->"Rats from each group received just one injection of 1.5 mg/kg SHR-1916 intravenously (via tail vein) or 1.5 mg/kg, 3 mg/kg, and 6 mg/kg of SHR-1916 subcutaneously (in the dorsal neck region)."
 
-Assuming a 81kg rat*
+> "Rats from each group received just one injection of 1.5 mg/kg SHR-1916 intravenously (via tail vein) or 1.5 mg/kg, 3 mg/kg, and 6 mg/kg of SHR-1916 subcutaneously (in the dorsal neck region)."
+
+> *Assuming an 81 kg rat*
 
 ### 11. **`x`**: Possible parameter including natural rate of death for CTL cells
 
