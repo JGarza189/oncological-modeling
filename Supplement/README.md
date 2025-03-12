@@ -3,9 +3,6 @@
 ## cellular.pharmacology.notes.md
 This document outlines the notes taken throughout research process.
 
-The interactions between tumor progression, drug concentration, and patient population drive the proposed initial conditions, which are tailored according to the patient's disease stage and patient profile. This modeling approach optimizes treatment plans by simulating various scenarios and predicting treatment efficacy for individual patient populations.
-
-
 ## ODE.parameters.md
 This markdown file outlines the parameters, initial conditions, and constants used in our system of ordinary differential equations for modeling the dynamics between tumor cells (T), CTL cells (L), and natural killer cells (N). 
 
