@@ -50,6 +50,23 @@ D'(t) = -\frac{\log(2)}{h} 2^{-\frac{t}{h}} D_0^*
 $$
 
 #### Parameters to Define:
+
+| Parameter | Description |
+|-----------|-------------|
+| **`p_1`** | Natural killer cell growth rate. |
+| **`p_2`** | Natural killer cell death rate due to natural death. |
+| **`q`**   | Carrying capacity coefficient for natural killer cell population. |
+| **`r`**   | Rate constant of drug-mediated stimulation. |
+| **`s`**   | Interaction term between CTLs and NK cells. |
+| **`u`**   | Natural tumor cell growth rate. |
+| **`v`**   | Carrying capacity coefficient for tumor cell population. |
+| **`δ`**   | Interaction term between CTLs and tumor cells. |
+| **`h`**   | Half-life of the drug. |
+| **`D_0^*`** | Initial dose or concentration of either IL-2 or Cyclophosphamide. |
+
+
+
+
 1. **`p_1`**: Natural killer cell growth rate.
    
 2. **`p_2`**: Natural killer cell death rate due to natural death.
