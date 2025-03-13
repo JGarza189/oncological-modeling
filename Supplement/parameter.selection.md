@@ -99,15 +99,24 @@ TBD
 
 ### 6. **`u`**: Natural Tumor Cell Growth Rate
 
-TBD
+u = 5.14x10^(-1)
+
+#### A mathematical model of cell-mediated immune response to tumor (Song et al., 2021)
+>" Table 1. Summary of the parameters associated with model (2.1)"
 
 ### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
 
-TBD
+v = 1.02x10^(-9)
+
+#### A mathematical model of cell-mediated immune response to tumor (Song et al., 2021)
+>" Table 1. Summary of the parameters associated with model (2.1)"
 
 ### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
 
-TBD
+δ = 3.42x10^(-10)
+
+#### A mathematical model of cell-mediated immune response to tumor (Song et al., 2021)
+>" Table 1. Summary of the parameters associated with model (2.1)"
 
 ### 9. **`h`**: Half-Life of the Drug
 
@@ -176,6 +185,8 @@ Fang, F., Xie, S., Chen, M., Li, Y., Yue, J., Ma, J., Shu, X., He, Y., Xiao, W.,
 Kong, X., Lin, Y., Ouyang, C., Chen, H., & Gao, X. (2025). SHR-1916: A novel pegylated interleukin-2 analogue with altered cellular selectivity and improved pharmacokinetic profiles for cancer immunotherapy. Drug Design, Development and Therapy, Volume 19, 1251–1270. 
 
 Monclair, T., Brodeur, G. M., Ambros, P. F., Brisse, H. J., Cecchetto, G., Holmes, K., Kaneko, M., London, W. B., Matthay, K. K., Nuchtern, J. G., von Schweinitz, D., Simon, T., Cohn, S. L., & Pearson, A. D. J. (2009). The International Neuroblastoma Risk Group (INRG) staging system: An INRG task force report. Journal of Clinical Oncology, 27(2), 298–303. 
+
+Song, G., Tian, T., & Zhang, X. (2021). A mathematical model of cell-mediated immune response to tumor. Mathematical Biosciences and Engineering, 18(1), 373–385. 
 
 Spangler, J. B. (2025). Abstract IA07: Engineered cytokine-antibody fusion proteins for targeted stimulation of anti-cancer immunity. Cancer Immunology Research, 13(2_Supplement).
 
