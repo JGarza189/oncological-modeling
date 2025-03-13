@@ -109,7 +109,8 @@ u = 5.14x10^(-1)
 #### A mathematical model of cell-mediated immune response to tumor (Song et al., 2021)
 >" Table 1. Summary of the parameters associated with model (2.1)"
 
-### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population
+### 7. **`v`**: Carrying Capacity Coefficient for Tumor Cell Population (POTENTIALLY DERIVED EXPERIMENTALLY 
+WORKING WITH OUR MODEL AND RELATIVE POPULATION SIZE)
 
 v = 1.02x10^(-9)
 
