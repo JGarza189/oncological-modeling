@@ -70,7 +70,10 @@ $$
 
 ### 1. **`p_1`**: Natural Killer Cell Growth Rate
 
-TBD
+p_1 = 1.30x10^(4) (QUESTIONABLE USE)
+
+#### A Validated Mathematical Model of Cell-Mediated Immune Response to Tumor Growth (de Pillis et al., 2005)
+>"Constant source of NK cells cells day^-1"
 
 ### 2. **`p_2`**: Natural Killer Cell Death Rate
 
@@ -87,15 +90,17 @@ Assuming the average rate of death is 14 days*
 
 ### 3. **`q`**: Carrying Capacity Coefficient for Natural Killer Cell Population
 
-TBD
+TBD (LIKELY GOING TO BE DERIVED EXPERIMENTALLY by PLAYING WITH NUMBERS .. MAYBE IN THE SAME
+RANGE OF OUR INITIAL CONDITIONS
 
 ### 4. **`r`**: Rate Constant of Drug-Mediated Stimulation
 
-TBD
+TBD (I NEED HELP UNDERSTANDING THIS ONE)
 
 ### 5. **`s`**: Interaction Term Between CTLs and NK Cells
 
-TBD
+DO WE NEED THIS TERM .. I DO NOT THINK THERE IS A SIGNIFICANT EFFECT ON CTL AND NK CELL SINCE
+THEY ARE TECHNICALLY ON THE SAME TEAM
 
 ### 6. **`u`**: Natural Tumor Cell Growth Rate
 
@@ -111,7 +116,7 @@ v = 1.02x10^(-9)
 #### A mathematical model of cell-mediated immune response to tumor (Song et al., 2021)
 >" Table 1. Summary of the parameters associated with model (2.1)"
 
-### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells
+### 8. **`δ`**: Interaction Term Between CTLs and Tumor Cells (DOUBLE CHECK!)
 
 δ = 3.42x10^(-10)
 
@@ -177,6 +182,8 @@ Assuming the average rate of death is 28 days*
 > "However, the lifespan of activated NK cells in vivo is approximately 7 days, and transferred in vitro-activated NK cells can persist for 7 to 22 days in vivo, both of which are still lower than the lifespan of effector CD8+ T cells and memory CD8+ T cells in vivo (approximately 2–3 weeks to months)."
 
 ## Literature Cited
+
+de Pillis, L. G., Radunskaya, A. E., & Wiseman, C. L. (2005). A validated mathematical model of cell-mediated immune response to tumor growth. Cancer Research, 65(17), 7950–7958. 
 
 Emadi, A., Jones, R. J., & Brodsky, R. A. (2009). Cyclophosphamide and cancer: Golden Anniversary. Nature Reviews Clinical Oncology, 6(11), 638–647. 
 
